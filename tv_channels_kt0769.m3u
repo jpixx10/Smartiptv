@@ -1555,19 +1555,19 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9810
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9852
 #EXTINF:-1,Doña Bella
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/95584
-#EXTINF:-1,ECU-Liga Pro 1 (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Liga Pro 1 (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/111329
-#EXTINF:-1,ECU-Liga Pro 1 (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Liga Pro 1 (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/111330
-#EXTINF:-1,ECU-Liga Pro 1 (e)(SD)
+#EXTINF:-1 group-title="ECUADOR",ECU-Liga Pro 1 (e)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/111331
-#EXTINF:-1,ECU- Canal del Futbol (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU- Canal del Futbol (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/107639
-#EXTINF:-1,ECU- Canal del Futbol (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU- Canal del Futbol (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/107640
-#EXTINF:-1,ECU- El Canal del Futbol (M)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU- El Canal del Futbol (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/109833
-#EXTINF:-1,ECU- El Canal del Futbol 2 (Z)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU- El Canal del Futbol 2 (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/109836
 #EXTINF:-1,El Camino TV (480p)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/87965
@@ -2767,145 +2767,145 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/75178
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10151
 #EXTINF:-1,Claro Sports Chile
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10152
-#EXTINF:-1,COL PPV 1 -Atl Nacional Vs. Once Caldas (e)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL PPV 1 -Atl Nacional Vs. Once Caldas (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8476
-#EXTINF:-1,COL-WinSports + (M)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports + (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8511
-#EXTINF:-1,COL-WinSports + (TV)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports + (TV)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8512
-#EXTINF:-1,COL-Winsport + (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Winsport + (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84897
-#EXTINF:-1,COL-WinSports + (L)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports + (L)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8510
-#EXTINF:-1,COL-WinSports (M)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8507
-#EXTINF:-1,COL-WinSports (L)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports (L)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8505
-#EXTINF:-1,COL-Winsports (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Winsports (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84896
-#EXTINF:-1,COL-WinSports (L)(SD)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports (L)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8506
-#EXTINF:-1,COL-WinSports (M)(SD)
+#EXTINF:-1 group-title="COLOMBIA",COL-WinSports (M)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8508
-#EXTINF:-1,COL-Caracol (L)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol (L)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8480
-#EXTINF:-1,COL-Caracol (M) (SD)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol (M) (SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8481
-#EXTINF:-1,COL-Caracol (TV)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol (TV)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8483
-#EXTINF:-1,COL-Caracol (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8484
-#EXTINF:-1,COL-Caracol Internacional (M)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol Internacional (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8485
-#EXTINF:-1,COL-Caracol Internacional (TV)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Caracol Internacional (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8486
-#EXTINF:-1,COL-RCN (L)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN (L)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84350
-#EXTINF:-1,COL-RCN (M)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8491
-#EXTINF:-1,COL-RCN (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84900
-#EXTINF:-1,COL-RCN (Z)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN (Z)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8492
-#EXTINF:-1,COL-RCN Internacional (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN Internacional (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84901
-#EXTINF:-1,COL-RCN Novelas (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN Novelas (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84902
-#EXTINF:-1,COL-RCN Nuestra Tele (M)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN Nuestra Tele (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8496
-#EXTINF:-1,COL-RCN Nuestra Tele (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-RCN Nuestra Tele (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84903
-#EXTINF:-1,COL-Cable Noticias (TV)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-Cable Noticias (TV)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8477
-#EXTINF:-1,COL-Cable Noticias (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Cable Noticias (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84908
-#EXTINF:-1,COL-Canal Uno (T)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Canal Uno (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84899
-#EXTINF:-1,COL-Canal Uno (TV)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Canal Uno (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8478
-#EXTINF:-1,COL-City Tv (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-City Tv (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84904
-#EXTINF:-1,COL-Claro Sports (M)
+#EXTINF:-1 group-title="COLOMBIA",COL-Claro Sports (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8488
-#EXTINF:-1,COL-Claro Sports Colombia (HD)
+#EXTINF:-1 group-title="COLOMBIA",COL-Claro Sports Colombia (HD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84898
-#EXTINF:-1,COL-Directv Sports (TV)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Directv Sports (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8489
-#EXTINF:-1,COL-NTN24 (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-NTN24 (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84905
-#EXTINF:-1,COL-Pasiones (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Pasiones (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84909
-#EXTINF:-1,COL-Señal Colombia (TV)(SD)
+#EXTINF:-1 group-title="COLOMBIA",COL-Señal Colombia (TV)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8497
-#EXTINF:-1,COL-Señal Colombia (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Señal Colombia (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84910
-#EXTINF:-1,COL-Suram (W)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Suram (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45801
-#EXTINF:-1,COL-TeleAntioquia (TV)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-TeleAntioquia (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8498
-#EXTINF:-1,COL-TeleAntioquia (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-TeleAntioquia (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84906
-#EXTINF:-1,COL-TeleCafe (M)
+#EXTINF:-1 group-title="COLOMBIA",COL-TeleCafe (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8499
-#EXTINF:-1,COL-TeleCafe (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-TeleCafe (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84911
-#EXTINF:-1,COL-Telemedellin (TV)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Telemedellin (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8501
-#EXTINF:-1,COL-Telemedellin (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Telemedellin (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84907
-#EXTINF:-1,COL-Telepacifico (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-Telepacifico (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84912
-#EXTINF:-1,COL-Telepacifico (TV)(1080)
+#EXTINF:-1 group-title="COLOMBIA",COL-Telepacifico (TV)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8502
-#EXTINF:-1,COL-TV Agro (M)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-TV Agro (M)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8503
-#EXTINF:-1,COL-TV Agro (Z)(720)
+#EXTINF:-1 group-title="COLOMBIA",COL-TV Agro (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84913
 #EXTINF:-1,Contivision (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10154
-#EXTINF:-1,CR-Canal 13 (TV)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Canal 13 (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8110
-#EXTINF:-1,CR-Canal 14 Tv Sur (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Canal 14 Tv Sur (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8111
-#EXTINF:-1,CR-Extrema TV (TV)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Extrema TV (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8112
-#EXTINF:-1,CR-FUTV (L)(1080)
+#EXTINF:-1 group-title="COSTARICA",CR- FUTV (L)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8113
-#EXTINF:-1,CR-FUTV (M)(SD)
+#EXTINF:-1 group-title="COSTARICA",CR- FUTV (M)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8114
-#EXTINF:-1,CR-FUTV (TV)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- FUTV (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8115
-#EXTINF:-1,CR-Repretel 11 (M)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 11 (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8116
-#EXTINF:-1,CR-Repretel 11 (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 11 (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8117
-#EXTINF:-1,CR-Repretel 4 (M)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 4 (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8118
-#EXTINF:-1,CR-Repretel 4 (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 4 (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8119
-#EXTINF:-1,CR-Repretel 6 (M)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 6 (M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8120
-#EXTINF:-1,CR-Repretel 6 (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Repretel 6 (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8121
-#EXTINF:-1,CR-TD +2 (TV)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- TD +2 (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8122
-#EXTINF:-1,CR-TD+ (M)(1080)
+#EXTINF:-1 group-title="COSTARICA",CR- TD+ (M)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8123
-#EXTINF:-1,CR-TD+ (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- TD+ (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8124
-#EXTINF:-1,CR-TD+2 (M)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- TD+2 (M)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8125
-#EXTINF:-1,CR-Tele Uno (L)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Tele Uno (L)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8126
-#EXTINF:-1,CR-Telesur (Z)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Telesur (Z)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8127
-#EXTINF:-1,CR-Teletica (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Teletica (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8128
-#EXTINF:-1,CR-Teletica 7 (L)(1080)
+#EXTINF:-1 group-title="COSTARICA",CR- Teletica 7 (L)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8129
-#EXTINF:-1,CR-Tigo Sports (T)(720)
+#EXTINF:-1 group-title="COSTARICA",CR- Tigo Sports (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8130
-#EXTINF:-1,CR-Tigo Sports 1 (1080)(M)
+#EXTINF:-1 group-title="COSTARICA",CR- Tigo Sports 1 (1080)(M)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8131
 #EXTINF:-1,CU-America TV (TV)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10082
@@ -2925,63 +2925,63 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10156
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10163
 #EXTINF:-1,Décima TV (Ancud) (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10165
-#EXTINF:-1,ECU-Copa Ecuador (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Copa Ecuador (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84793
-#EXTINF:-1,ECU-Copa Ecuador (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Copa Ecuador (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/84794
-#EXTINF:-1,ECU-Directv Sports (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Directv Sports (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/88483
-#EXTINF:-1,ECU-Directv Sports (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Directv Sports (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8625
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Teleamazonas Quito (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8648
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(1080) Opc 2
+#EXTINF:-1 group-title="ECUADOR",ECU-Teleamazonas Quito (e)(1080) Opc 2
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8649
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Teleamazonas Quito (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8650
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8645
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8646
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(SD)
+#EXTINF:-1 group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8647
-#EXTINF:-1,ECU-Teleamazona Costa (TV)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Teleamazona Costa (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8644
-#EXTINF:-1,ECU-TC Television Sierra (TV)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-TC Television Sierra (TV)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8639
-#EXTINF:-1,ECU-TC Television Costa (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-TC Television Costa (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8640
-#EXTINF:-1,ECU-TC Television Costa (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-TC Television Costa (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8641
-#EXTINF:-1,ECU-TC Television Quito (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-TC Television Quito (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8642
-#EXTINF:-1,ECU-TC Television Quito (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-TC Television Quito (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8643
-#EXTINF:-1,ECU-Ecuavisa Quito (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Ecuavisa Quito (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8629
-#EXTINF:-1,ECU-Ecuavisa Quito (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Ecuavisa Quito (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8630
-#EXTINF:-1,ECU-Ecuavisa Costa (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Ecuavisa Costa (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8626
-#EXTINF:-1,ECU-Ecuavisa Costa (e)(SD)
+#EXTINF:-1 group-title="ECUADOR",ECU-Ecuavisa Costa (e)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8627
-#EXTINF:-1,ECU-Ecuavisa Costa(e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Ecuavisa Costa(e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8628
-#EXTINF:-1,ECU-RTS Costa (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-RTS Costa (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8635
-#EXTINF:-1,ECU-RTS Costa (M)(SD)
+#EXTINF:-1 group-title="ECUADOR",ECU-RTS Costa (M)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8636
-#EXTINF:-1,ECU-RTS Costa(e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-RTS Costa(e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8637
-#EXTINF:-1,ECU-Gama Tv (e)(1080)
+#EXTINF:-1 group-title="ECUADOR",ECU-Gama Tv (e)(1080)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8632
-#EXTINF:-1,ECU-Gama Tv (e)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Gama Tv (e)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8633
-#EXTINF:-1,ECU-Oromar (T)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-Oromar (T)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8634
-#EXTINF:-1,ECU-RTU (M)(SD)
+#EXTINF:-1 group-title="ECUADOR",ECU-RTU (M)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8638
-#EXTINF:-1,ECU-TVC UIO (TV)(720)
+#EXTINF:-1 group-title="ECUADOR",ECU-TVC UIO (TV)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8651
 #EXTINF:-1,EGM Channel (W)(SD)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10167
@@ -3621,11 +3621,11 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85654
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85655
 #EXTINF:-1,Durán TV (W)(SD) [Not 24/7]
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85656
-#EXTINF:-1,Ecua Stereo Radio TV (W)(720)
+#EXTINF:-1 group-title="ECUADOR",ECUa Stereo Radio TV (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85657
-#EXTINF:-1,EcuaMundo Radio TV (W)(720)
+#EXTINF:-1 group-title="ECUADOR",ECUaMundo Radio TV (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85658
-#EXTINF:-1,Ecuavisa (W)(720) [Not 24/7]
+#EXTINF:-1 group-title="ECUADOR",ECUavisa (W)(720) [Not 24/7]
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85659
 #EXTINF:-1,EducaTV (W)(720) [Not 24/7]
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85660
@@ -3685,7 +3685,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85686
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85687
 #EXTINF:-1,Capricho TV (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85688
-#EXTINF:-1,Ecuador TV (W)(720)
+#EXTINF:-1 group-title="ECUADOR",ECUador TV (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85689
 #EXTINF:-1,FM Mundo (W)(720)
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/85690
