@@ -169,6 +169,26 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/153945
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/153946
 #EXTINF:-1 tvg-name="66 | DHE ᴴᴰ"tvg-id="DHE.uy"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/513.png"group-title="✅️CINE & SERIES",66 | DHE ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/156224
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/d0K8WQ9x/nat-geo.png" group-title="CANALES DOCUMENTALES Y CULTURALES",NATIONAL GEOGRAPHIC
+http://playtv44.com:8080/971627115/123456/52660
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://i.postimg.cc/vTm7WPv8/history-2.png" group-title="CANALES DOCUMENTALES Y CULTURALES",HISTORY 2
+http://playtv44.com:8080/971627115/123456/52662
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/43yQH4X7/tlc.png" group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY SCIENCE
+http://playtv44.com:8080/971627115/123456/52663
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.postimg.cc/BZhBq0qj/discovery-theater.png" group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY THEATER
+http://playtv44.com:8080/971627115/123456/52666
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVER TLC" tvg-logo="https://i.postimg.cc/FHSygk0S/tlc.png" group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVER TLC
+http://playtv44.com:8080/971627115/123456/52667
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.postimg.cc/28MdZ7Lm/history.png" group-title="CANALES DOCUMENTALES Y CULTURALES",HISTORY
+http://playtv44.com:8080/971627115/123456/52668
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.postimg.cc/nh01L9ff/tlc-2.png" group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY H&H
+http://playtv44.com:8080/971627115/123456/52672
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://i.postimg.cc/wx252s3y/investigation.png" group-title="CANALES DOCUMENTALES Y CULTURALES",INVESTIGATION DISCOVERY
+http://playtv44.com:8080/971627115/123456/52674
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/Rhb7GcP7/animal-planet.png" group-title="CANALES DOCUMENTALES Y CULTURALES",ANIMAL PLANET
+http://playtv44.com:8080/971627115/123456/52676
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/jdLQ2F5Z/discovery-chanel.png" group-title="CANALES DOCUMENTALES Y CULTURALES",DISCOVERY CHANNEL
+http://playtv44.com:8080/971627115/123456/52677
 #EXTINF:-1 tvg-name="01 | CARTOON NETWORK"tvg-id="CARTOON NETWORK *HD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png"group-title="INFANTILES",01 | CARTOON NETWORK
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/150432
 #EXTINF:-1 tvg-name="02 | CARTOON NETWORK ᴴᴰ"tvg-id="CARTOON NETWORK *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cartoon_network_latinoamerica-mediano.png"group-title="INFANTILES",02 | CARTOON NETWORK ᴴᴰ
@@ -241,100 +261,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/156087
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/156088
 #EXTINF:-1 tvg-name="36 | DISCOVERY KIDS ᴴᴰ"tvg-id="DISCOVERY KIDS *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_kids-mediano.png"group-title="INFANTILES",36 | DISCOVERY KIDS ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/156089
-#EXTINF:-1 tvg-name="01 | DISCOVERY CHANNEL"tvg-id="I732.25788.schedulesdirect.org"tvg-logo="https://e7.pngegg.com/pngimages/107/820/png-clipart-discovery-channel-logo-television-channel-film-mini-miscellaneous-television.png"group-title="CULTURA",01 | DISCOVERY CHANNEL
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152892
-#EXTINF:-1 tvg-name="02 | DISCOVERY CHANNEL ᴴᴰ"tvg-id="DISCOVERY H&H *HD"tvg-logo="https://e7.pngegg.com/pngimages/107/820/png-clipart-discovery-channel-logo-television-channel-film-mini-miscellaneous-television.png"group-title="CULTURA",02 | DISCOVERY CHANNEL ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152893
-#EXTINF:-1 tvg-name="04 | DISCOVERY FAMILIA ᴴᴰ"tvg-id="I223.25793.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_familia-mediano.png"group-title="CULTURA",04 | DISCOVERY FAMILIA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152896
-#EXTINF:-1 tvg-name="05 | DISCOVERY ID"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png"group-title="CULTURA",05 | DISCOVERY ID
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152897
-#EXTINF:-1 tvg-name="06 | DISCOVERY ID ᴴᴰ"tvg-id="DISCOVERY ID *HD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png"group-title="CULTURA",06 | DISCOVERY ID ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152898
-#EXTINF:-1 tvg-name="07 | DISCOVERY ID ᴴᴰ"tvg-id="I263.25793.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png"group-title="CULTURA",07 | DISCOVERY ID ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152899
-#EXTINF:-1 tvg-name="08 | DISCOVERY WORLD"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png"group-title="CULTURA",08 | DISCOVERY WORLD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152901
-#EXTINF:-1 tvg-name="09 | DISCOVERY WORLD MX ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png"group-title="CULTURA",09 | DISCOVERY WORLD MX ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152902
-#EXTINF:-1 tvg-name="10 | DISCOVERY WORLD ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png"group-title="CULTURA",10 | DISCOVERY WORLD ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152903
-#EXTINF:-1 tvg-name="11 | DISCOVERY SCIENCE"tvg-id="DISCOVERY SCIENCE *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png"group-title="CULTURA",11 | DISCOVERY SCIENCE
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152905
-#EXTINF:-1 tvg-name="12 | DISCOVERY SCIENCE ᴴᴰ"tvg-id="DISCOVERY SCIENCE *HD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png"group-title="CULTURA",12 | DISCOVERY SCIENCE ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152906
-#EXTINF:-1 tvg-name="13 | DISCOVERY SCIENCE USA ᴴᴰ"tvg-id="DISCOVERY SCIENCE *HD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png"group-title="CULTURA",13 | DISCOVERY SCIENCE USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152907
-#EXTINF:-1 tvg-name="14 | DISCOVERY TURBO"tvg-id="I736.46608.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png"group-title="CULTURA",14 | DISCOVERY TURBO
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152909
-#EXTINF:-1 tvg-name="15 | DISCOVERY TURBO ᴴᴰ"tvg-id="DISCOVERY TURBO *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png"group-title="CULTURA",15 | DISCOVERY TURBO ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152910
-#EXTINF:-1 tvg-name="16 | DISCOVERY TURBO ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png"group-title="CULTURA",16 | DISCOVERY TURBO ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152911
-#EXTINF:-1 tvg-name="17 | DISCOVERY EN ESPAÑOL ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png"group-title="CULTURA",17 | DISCOVERY EN ESPAÑOL ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152912
-#EXTINF:-1 tvg-name="18 | HGTV ᴴᴰ"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1234.png"group-title="CULTURA",18 | HGTV ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152913
-#EXTINF:-1 tvg-name="19 | HGTV USA ᴴᴰ"tvg-id="USA | HGTV"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1234.png"group-title="CULTURA",19 | HGTV USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152914
-#EXTINF:-1 tvg-name="20 | DISCOVERY THEATER ᴴᴰ"tvg-id="DISCOVERY THEATER *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png"group-title="CULTURA",20 | DISCOVERY THEATER ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152918
-#EXTINF:-1 tvg-name="21 | DISCOVERY H&H ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png"group-title="CULTURA",21 | DISCOVERY H&H ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152919
-#EXTINF:-1 tvg-name="23 | DISCOVERY H&H ᴴᴰ"tvg-id="BR | DISCOVERY H&H *HD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png"group-title="CULTURA",23 | DISCOVERY H&H ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152921
-#EXTINF:-1 tvg-name="24 | DISCOVERY H&H"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png"group-title="CULTURA",24 | DISCOVERY H&H
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152922
-#EXTINF:-1 tvg-name="25 | ANIMAL PLANET"tvg-id="ANIMAL PLANET *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png"group-title="CULTURA",25 | ANIMAL PLANET
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152923
-#EXTINF:-1 tvg-name="26 | ANIMAL PLANET ᴴᴰ"tvg-id="ANIMAL PLANET *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png"group-title="CULTURA",26 | ANIMAL PLANET ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152924
-#EXTINF:-1 tvg-name="27 | ANIMAL PLANET ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png"group-title="CULTURA",27 | ANIMAL PLANET ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152925
-#EXTINF:-1 tvg-name="28 | HISTORY"tvg-id="I361.96445.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png"group-title="CULTURA",28 | HISTORY
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152927
-#EXTINF:-1 tvg-name="29 | HISTORY ᴴᴰ"tvg-id="HISTORY *FHD"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/742.png"group-title="CULTURA",29 | HISTORY ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152928
-#EXTINF:-1 tvg-name="30 | HISTORY ᴴᴰ"tvg-id="HISTORY *HD"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/742.png"group-title="CULTURA",30 | HISTORY ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152929
-#EXTINF:-1 tvg-name="31 | HISTORY USA ᴴᴰ"tvg-id="HISTORY *FHD"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/742.png"group-title="CULTURA",31 | HISTORY USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152930
-#EXTINF:-1 tvg-name="32 | HISTORY 2"tvg-id="I1.24519.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png"group-title="CULTURA",32 | HISTORY 2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152931
-#EXTINF:-1 tvg-name="33 | HISTORY 2 ᴴᴰ"tvg-id="I744.89238.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png"group-title="CULTURA",33 | HISTORY 2 ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152933
-#EXTINF:-1 tvg-name="34 | NATGEO USA ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png"group-title="CULTURA",34 | NATGEO USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152935
-#EXTINF:-1 tvg-name="35 | NATGEO ᴴᴰ"tvg-id="NAT GEO *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png"group-title="CULTURA",35 | NATGEO ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152936
-#EXTINF:-1 tvg-name="36 | NATGEO ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png"group-title="CULTURA",36 | NATGEO ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152937
-#EXTINF:-1 tvg-name="37 | NATGEO MUNDO ᴴᴰ"tvg-id="I735.66491.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_mundo-mediano.png"group-title="CULTURA",37 | NATGEO MUNDO ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152938
-#EXTINF:-1 tvg-name="38 | THE GOURMET"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/232.png"group-title="CULTURA",38 | THE GOURMET
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152944
-#EXTINF:-1 tvg-name="39 | THE GOURMET ᴴᴰ"tvg-id="EL GOURMET *FHD"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/232.png"group-title="CULTURA",39 | THE GOURMET ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152945
-#EXTINF:-1 tvg-name="40 | THE GOURMET ᴴᴰ"tvg-id="EL GOURMET *HD"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/232.png"group-title="CULTURA",40 | THE GOURMET ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152946
-#EXTINF:-1 tvg-name="NT | FRANCE 24 ᴴᴰ"tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/Estaciones-France-24-en-directo-Online-80x60.png"group-title="NOTICIAS",NT | FRANCE 24 ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152948
-#EXTINF:-1 tvg-name="NT | FRANCE 24 ᴴᴰ"tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/05/Estaciones-France-24-en-directo-Online-80x60.png"group-title="NOTICIAS",NT | FRANCE 24 ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152949
-#EXTINF:-1 tvg-name="NT | BLOOMBERG  ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bloomberg-mediano.png"group-title="NOTICIAS",NT | BLOOMBERG  ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152950
-#EXTINF:-1 tvg-name="NT | BLOOMBERG FIN ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bloomberg-mediano.png"group-title="NOTICIAS",NT | BLOOMBERG FIN ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152951
-#EXTINF:-1 tvg-name="42 | WOBI"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/wobi-mediano.png"group-title="CULTURA",42 | WOBI
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152952
-#EXTINF:-1 tvg-name="43 | WOBI"tvg-id="I387.59014.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/wobi-mediano.png"group-title="CULTURA",43 | WOBI
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152953
-#EXTINF:-1 tvg-name="44 | HOLA TV ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv-mediano.png"group-title="CULTURA",44 | HOLA TV ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152954
-#EXTINF:-1 tvg-name="45 | HOLA TV ᴴᴰ"tvg-id="HOLA TV *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv-mediano.png"group-title="CULTURA",45 | HOLA TV ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152955
-#EXTINF:-1 tvg-name="46 | CANAL COCINA"tvg-id=""tvg-logo="https://101blogdecocina.com/contentimg/18455820170716_281214_canal-cocina.png"group-title="CULTURA",46 | CANAL COCINA
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152956
 #EXTINF:-1 tvg-name="NT | CNN ESPAÑOL"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png"group-title="NOTICIAS",NT | CNN ESPAÑOL
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152957
 #EXTINF:-1 tvg-name="NT | CNN ESPAÑOL"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png"group-title="NOTICIAS",NT | CNN ESPAÑOL
@@ -359,10 +285,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152973
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152974
 #EXTINF:-1 tvg-name="NT | DW ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle-mediano.png"group-title="NOTICIAS",NT | DW ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152975
-#EXTINF:-1 tvg-name="47 | FOOD NETWORK ᴴᴰ"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1233.png"group-title="CULTURA",47 | FOOD NETWORK ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152976
-#EXTINF:-1 tvg-name="48 | FOOD NETWORK USA ᴴᴰ"tvg-id="I226.44718.schedulesdirect.org"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png"group-title="CULTURA",48 | FOOD NETWORK USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/152977
 #EXTINF:-1 tvg-name="01 | E!"tvg-id="E! ENTERTAIMENT *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/e_-mediano.png"group-title="ENTRETENIMIENTO",01 | E!
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/150569
 #EXTINF:-1 tvg-name="02 | E! ᴴᴰ"tvg-id="E! ENTERTAIMENT *HQ"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/e_-mediano.png"group-title="ENTRETENIMIENTO",02 | E! ᴴᴰ
@@ -1333,8 +1255,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/173549
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/173556
 #EXTINF:-1 tvg-name="17 | EVTV MIAMI | VEN"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/EVTV_2020.png"group-title="VENEZUELA",17 | EVTV MIAMI | VEN
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/173568
-#EXTINF:-1 tvg-name="49 | SMITHSONIAN CHANNEL US ᴴᴰ"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png"group-title="CULTURA",49 | SMITHSONIAN CHANNEL US ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/173670
 #EXTINF:-1 tvg-name="54 | CGTN ESPAÑOL ᴴᴰ"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/120px-CGTN_Espanol.png"group-title="ENTRETENIMIENTO",54 | CGTN ESPAÑOL ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/180328
 #EXTINF:-1 tvg-name="MI MUSICA REGAETON"tvg-id=""tvg-logo=""group-title="MUSICA",MI MUSICA REGAETON
@@ -2495,8 +2415,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325352
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325359
 #EXTINF:-1 tvg-name="PY | Trece Paraguay"tvg-id=""tvg-logo=""group-title="PARAGUAY",PY | Trece Paraguay
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325364
-#EXTINF:-1 tvg-name="50 | HOGAR ᴴᴰ"tvg-id=""tvg-logo="https://seeklogo.com/images/H/hogar-de-hgtv-logo-92952B3C44-seeklogo.com.png"group-title="CULTURA",50 | HOGAR ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325855
 #EXTINF:-1 tvg-name="NT | ABC NEW YORK "tvg-id=""tvg-logo=""group-title="NOTICIAS",NT | ABC NEW YORK
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325857
 #EXTINF:-1 tvg-name="EC | OROMAR"tvg-id="EC | OROMAR TV *HD"tvg-logo="https://oromartv.com/wp-content/uploads/2024/01/LOGO_OTV_SOMBREADO_PEQUENIO_400x400.png"group-title="✅️ECUADOR",EC | OROMAR
@@ -4563,175 +4481,263 @@ http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397613.mp4
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397614.mp4
 #EXTINF:-1 tvg-name="Mi villano favorito 4 (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/548d399c1f8c316584aa951b941ffb4a.jpg"group-title="⭐️Estrenos 2024",Mi villano favorito 4 (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="http://goldfull.pro:8880/images/b34ecbbcbdfcf25f9a3b5afc60680559.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs
+#EXTINF:-1 tvg-name="24/7 Animaniacs"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b34ecbbcbdfcf25f9a3b5afc60680559.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398002
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs 2" tvg-logo="http://goldfull.pro:8880/images/0d561e915039aa49c5568b8a2f6fdcfd.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs 2
+#EXTINF:-1 tvg-name="24/7 Animaniacs 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0d561e915039aa49c5568b8a2f6fdcfd.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398003
-#EXTINF:-1 tvg-id="" tvg-name="Coraje" tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg" group-title="✅ 24/7 VIP",Coraje
+#EXTINF:-1 tvg-name="Coraje"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg"group-title="✅ 24/7 VIP",Coraje
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398004
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje 2" tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg" group-title="✅ 24/7 VIP",24/7 Coraje 2
+#EXTINF:-1 tvg-name="24/7 Coraje 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg"group-title="✅ 24/7 VIP",24/7 Coraje 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398005
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" group-title="✅ 24/7 VIP",24/7 Los Pitufos
+#EXTINF:-1 tvg-name="24/7 Los Pitufos"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg"group-title="✅ 24/7 VIP",24/7 Los Pitufos
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398006
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y cerebro" tvg-logo="http://goldfull.pro:8880/images/becdfe7e9014db39c611baa3bc4eed82.jpg" group-title="✅ 24/7 VIP",24/7 Pinky y cerebro
+#EXTINF:-1 tvg-name="24/7 Pinky y cerebro"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/becdfe7e9014db39c611baa3bc4eed82.jpg"group-title="✅ 24/7 VIP",24/7 Pinky y cerebro
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398007
-#EXTINF:-1 tvg-id="" tvg-name="Puca" tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg" group-title="✅ 24/7 VIP",Puca
+#EXTINF:-1 tvg-name="Puca"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg"group-title="✅ 24/7 VIP",Puca
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398008
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Puca 2" tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg" group-title="✅ 24/7 VIP",24/7 Puca 2
+#EXTINF:-1 tvg-name="24/7 Puca 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg"group-title="✅ 24/7 VIP",24/7 Puca 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398009
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X-men Animado" tvg-logo="http://goldfull.pro:8880/images/56aff344db5fb99290bb7598c4a37829.jpg" group-title="✅ 24/7 VIP",24/7 X-men Animado
+#EXTINF:-1 tvg-name="24/7 X-men Animado"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/56aff344db5fb99290bb7598c4a37829.jpg"group-title="✅ 24/7 VIP",24/7 X-men Animado
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398010
-#EXTINF:-1 tvg-id="" tvg-name="Adventure Time" tvg-logo="http://goldfull.pro:8880/images/51db3ea592b6c2f33ed090ed8b5a261b.jpg" group-title="✅ 24/7 VIP",Adventure Time
+#EXTINF:-1 tvg-name="Adventure Time"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/51db3ea592b6c2f33ed090ed8b5a261b.jpg"group-title="✅ 24/7 VIP",Adventure Time
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398011
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="http://goldfull.pro:8880/images/f771eaddb076ec2d1a31c7b3c4234620.jpg" group-title="✅ 24/7 VIP",Aquaman
+#EXTINF:-1 tvg-name="Aquaman"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f771eaddb076ec2d1a31c7b3c4234620.jpg"group-title="✅ 24/7 VIP",Aquaman
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398012
-#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 2" tvg-logo="http://goldfull.pro:8880/images/c40495aacc5f4786aeb7e38e6281f949.jpg" group-title="✅ 24/7 VIP",Baby Looney Tunes 2
+#EXTINF:-1 tvg-name="Baby Looney Tunes 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c40495aacc5f4786aeb7e38e6281f949.jpg"group-title="✅ 24/7 VIP",Baby Looney Tunes 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398013
-#EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg" group-title="✅ 24/7 VIP",Bakugan
+#EXTINF:-1 tvg-name="Bakugan"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg"group-title="✅ 24/7 VIP",Bakugan
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398014
-#EXTINF:-1 tvg-id="" tvg-name="Bakugan 2008" tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg" group-title="✅ 24/7 VIP",Bakugan 2008
+#EXTINF:-1 tvg-name="Bakugan 2008"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg"group-title="✅ 24/7 VIP",Bakugan 2008
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398015
-#EXTINF:-1 tvg-id="" tvg-name="Bebe vuelta al curro" tvg-logo="http://goldfull.pro:8880/images/cbe9c19007514d8d7922cfcc7cd0bd75.jpg" group-title="✅ 24/7 VIP",Bebe vuelta al curro
+#EXTINF:-1 tvg-name="Bebe vuelta al curro"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cbe9c19007514d8d7922cfcc7cd0bd75.jpg"group-title="✅ 24/7 VIP",Bebe vuelta al curro
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398016
-#EXTINF:-1 tvg-id="" tvg-name="Beetjuice (r)" tvg-logo="http://goldfull.pro:8880/images/efa15a16e652934b9f3e7b97a25d7564.jpg" group-title="✅ 24/7 VIP",Beetjuice (r)
+#EXTINF:-1 tvg-name="Beetjuice (r)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/efa15a16e652934b9f3e7b97a25d7564.jpg"group-title="✅ 24/7 VIP",Beetjuice (r)
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398017
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="http://goldfull.pro:8880/images/44aa72a1d513b7dedda2d0ee69712515.jpg" group-title="✅ 24/7 VIP",Ben 10
+#EXTINF:-1 tvg-name="Ben 10"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/44aa72a1d513b7dedda2d0ee69712515.jpg"group-title="✅ 24/7 VIP",Ben 10
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398018
-#EXTINF:-1 tvg-id="" tvg-name="Ben10 (2)" tvg-logo="http://goldfull.pro:8880/images/baaf609912d915a4b0634d816eb25d42.jpg" group-title="✅ 24/7 VIP",Ben10 (2)
+#EXTINF:-1 tvg-name="Ben10 (2)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/baaf609912d915a4b0634d816eb25d42.jpg"group-title="✅ 24/7 VIP",Ben10 (2)
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398019
-#EXTINF:-1 tvg-id="" tvg-name="Bugs Bunny" tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg" group-title="✅ 24/7 VIP",Bugs Bunny
+#EXTINF:-1 tvg-name="Bugs Bunny"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg"group-title="✅ 24/7 VIP",Bugs Bunny
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398020
-#EXTINF:-1 tvg-id="" tvg-name="Chapulin anime" tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg" group-title="✅ 24/7 VIP",Chapulin anime
+#EXTINF:-1 tvg-name="Chapulin anime"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg"group-title="✅ 24/7 VIP",Chapulin anime
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398021
-#EXTINF:-1 tvg-id="" tvg-name="Chapulin Colorado" tvg-logo="http://goldfull.pro:8880/images/6811ddeb35a04ac970d5993fbadba3ca.jpg" group-title="✅ 24/7 VIP",Chapulin Colorado
+#EXTINF:-1 tvg-name="Chapulin Colorado"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/6811ddeb35a04ac970d5993fbadba3ca.jpg"group-title="✅ 24/7 VIP",Chapulin Colorado
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398022
-#EXTINF:-1 tvg-id="" tvg-name="Coyote" tvg-logo="http://goldfull.pro:8880/images/f816e13b20d36b2c8f6f5554cf56eb5e.jpg" group-title="✅ 24/7 VIP",Coyote
+#EXTINF:-1 tvg-name="Coyote"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f816e13b20d36b2c8f6f5554cf56eb5e.jpg"group-title="✅ 24/7 VIP",Coyote
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398023
-#EXTINF:-1 tvg-id="" tvg-name="Don Gato" tvg-logo="http://goldfull.pro:8880/images/bc618d3c3a7e8dc24777c187332a345f.jpg" group-title="✅ 24/7 VIP",Don Gato
+#EXTINF:-1 tvg-name="Don Gato"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/bc618d3c3a7e8dc24777c187332a345f.jpg"group-title="✅ 24/7 VIP",Don Gato
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398024
-#EXTINF:-1 tvg-id="" tvg-name="Dora La Exploradora (avi)" tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg" group-title="✅ 24/7 VIP",Dora La Exploradora (avi)
+#EXTINF:-1 tvg-name="Dora La Exploradora (avi)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg"group-title="✅ 24/7 VIP",Dora La Exploradora (avi)
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398025
-#EXTINF:-1 tvg-id="" tvg-name="Dos perros tontos (r)" tvg-logo="http://goldfull.pro:8880/images/242b8c03adcf6fbac11b6a890d9ca5f2.jpg" group-title="✅ 24/7 VIP",Dos perros tontos (r)
+#EXTINF:-1 tvg-name="Dos perros tontos (r)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/242b8c03adcf6fbac11b6a890d9ca5f2.jpg"group-title="✅ 24/7 VIP",Dos perros tontos (r)
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398026
-#EXTINF:-1 tvg-id="" tvg-name="El Galactico" tvg-logo="http://goldfull.pro:8880/images/9d6d84423a9018fd783281632aa6173b.jpg" group-title="✅ 24/7 VIP",El Galactico
+#EXTINF:-1 tvg-name="El Galactico"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9d6d84423a9018fd783281632aa6173b.jpg"group-title="✅ 24/7 VIP",El Galactico
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398027
-#EXTINF:-1 tvg-id="" tvg-name="El inspector Ardilla" tvg-logo="http://goldfull.pro:8880/images/806665de90e9408dc17e679ed3107a71.jpg" group-title="✅ 24/7 VIP",El inspector Ardilla
+#EXTINF:-1 tvg-name="El inspector Ardilla"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/806665de90e9408dc17e679ed3107a71.jpg"group-title="✅ 24/7 VIP",El inspector Ardilla
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398028
-#EXTINF:-1 tvg-id="" tvg-name="El Inspector Gadget" tvg-logo="http://goldfull.pro:8880/images/7321a9454c2b720d2b6754e53986af3c.jpg" group-title="✅ 24/7 VIP",El Inspector Gadget
+#EXTINF:-1 tvg-name="El Inspector Gadget"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/7321a9454c2b720d2b6754e53986af3c.jpg"group-title="✅ 24/7 VIP",El Inspector Gadget
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398029
-#EXTINF:-1 tvg-id="" tvg-name="El Vengador" tvg-logo="http://goldfull.pro:8880/images/9152239594a8e5299177931bbb4958e2.jpg" group-title="✅ 24/7 VIP",El Vengador
+#EXTINF:-1 tvg-name="El Vengador"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9152239594a8e5299177931bbb4958e2.jpg"group-title="✅ 24/7 VIP",El Vengador
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398030
-#EXTINF:-1 tvg-id="" tvg-name="Hanna Barbera" tvg-logo="http://goldfull.pro:8880/images/00f2fc875166c59e6c2b99cae1096122.jpg" group-title="✅ 24/7 VIP",Hanna Barbera
+#EXTINF:-1 tvg-name="Hanna Barbera"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/00f2fc875166c59e6c2b99cae1096122.jpg"group-title="✅ 24/7 VIP",Hanna Barbera
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398031
-#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="http://goldfull.pro:8880/images/5760b665b3106e6cafb70ce75dcd0b1e.jpg" group-title="✅ 24/7 VIP",Hey Arnold
+#EXTINF:-1 tvg-name="Hey Arnold"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/5760b665b3106e6cafb70ce75dcd0b1e.jpg"group-title="✅ 24/7 VIP",Hey Arnold
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398032
-#EXTINF:-1 tvg-id="" tvg-name="Jefe En Pañales" tvg-logo="http://goldfull.pro:8880/images/44d6db1589e05025b3ab2a312096c95b.jpg" group-title="✅ 24/7 VIP",Jefe En Pañales
+#EXTINF:-1 tvg-name="Jefe En Pañales"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/44d6db1589e05025b3ab2a312096c95b.jpg"group-title="✅ 24/7 VIP",Jefe En Pañales
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398033
-#EXTINF:-1 tvg-id="" tvg-name="Looney Toons Baby" tvg-logo="http://goldfull.pro:8880/images/637b4658d15858cbb963c3504c69cbaa.jpg" group-title="✅ 24/7 VIP",Looney Toons Baby
+#EXTINF:-1 tvg-name="Looney Toons Baby"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/637b4658d15858cbb963c3504c69cbaa.jpg"group-title="✅ 24/7 VIP",Looney Toons Baby
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398034
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg" group-title="✅ 24/7 VIP",Mickey Mouse
+#EXTINF:-1 tvg-name="Mickey Mouse"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg"group-title="✅ 24/7 VIP",Mickey Mouse
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398035
-#EXTINF:-1 tvg-id="" tvg-name="Oliver" tvg-logo="http://goldfull.pro:8880/images/8818958d7939254d5516708c34ef3411.jpg" group-title="✅ 24/7 VIP",Oliver
+#EXTINF:-1 tvg-name="Oliver"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8818958d7939254d5516708c34ef3411.jpg"group-title="✅ 24/7 VIP",Oliver
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398036
-#EXTINF:-1 tvg-id="" tvg-name="Vampirina" tvg-logo="http://goldfull.pro:8880/images/a5ae4ef6086c6dbba80b7df1cb82a4d0.jpg" group-title="✅ 24/7 VIP",Vampirina
+#EXTINF:-1 tvg-name="Vampirina"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/a5ae4ef6086c6dbba80b7df1cb82a4d0.jpg"group-title="✅ 24/7 VIP",Vampirina
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398037
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="http://goldfull.pro:8880/images/987d55dfaf22161d271fae9dcd979d90.jpg" group-title="✅ 24/7 VIP",Yu-Gi-Oh
+#EXTINF:-1 tvg-name="Yu-Gi-Oh"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/987d55dfaf22161d271fae9dcd979d90.jpg"group-title="✅ 24/7 VIP",Yu-Gi-Oh
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398038
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jhonny bravo" tvg-logo="http://goldfull.pro:8880/images/eb9914fb4eb24f33a4b446238d8ce152.jpg" group-title="✅ 24/7 VIP",24/7 Jhonny bravo
+#EXTINF:-1 tvg-name="24/7 Jhonny bravo"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/eb9914fb4eb24f33a4b446238d8ce152.jpg"group-title="✅ 24/7 VIP",24/7 Jhonny bravo
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398039
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon liga indigo" tvg-logo="http://goldfull.pro:8880/images/95e60256d47dccd7d2af71a93cb032e4.jpg" group-title="✅ 24/7 VIP",24/7 Pokemon liga indigo
+#EXTINF:-1 tvg-name="24/7 Pokemon liga indigo"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/95e60256d47dccd7d2af71a93cb032e4.jpg"group-title="✅ 24/7 VIP",24/7 Pokemon liga indigo
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398040
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kung Fu panda" tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg" group-title="✅ 24/7 VIP",24/7 Kung Fu panda
+#EXTINF:-1 tvg-name="24/7 Kung Fu panda"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg"group-title="✅ 24/7 VIP",24/7 Kung Fu panda
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398041
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Miraculous" tvg-logo="http://goldfull.pro:8880/images/badbd9635bb1afe4a45d2a655ca57b78.jpg" group-title="✅ 24/7 VIP",24/7 Miraculous
+#EXTINF:-1 tvg-name="24/7 Miraculous"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/badbd9635bb1afe4a45d2a655ca57b78.jpg"group-title="✅ 24/7 VIP",24/7 Miraculous
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398042
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Octonautas" tvg-logo="http://goldfull.pro:8880/images/357381229aa291061aac94504b5ce367.jpg" group-title="✅ 24/7 VIP",24/7 Octonautas
+#EXTINF:-1 tvg-name="24/7 Octonautas"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/357381229aa291061aac94504b5ce367.jpg"group-title="✅ 24/7 VIP",24/7 Octonautas
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398043
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Patrulla Canina" tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg" group-title="✅ 24/7 VIP",24/7 Patrulla Canina
+#EXTINF:-1 tvg-name="24/7 Patrulla Canina"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg"group-title="✅ 24/7 VIP",24/7 Patrulla Canina
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398044
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg" group-title="✅ 24/7 VIP",24/7 Peppa Pig
+#EXTINF:-1 tvg-name="24/7 Peppa Pig"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg"group-title="✅ 24/7 VIP",24/7 Peppa Pig
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398045
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pistas de blue" tvg-logo="http://goldfull.pro:8880/images/c566c42e7eb8984c563b56320ef7fe0e.jpg" group-title="✅ 24/7 VIP",24/7 Pistas de blue
+#EXTINF:-1 tvg-name="24/7 Pistas de blue"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c566c42e7eb8984c563b56320ef7fe0e.jpg"group-title="✅ 24/7 VIP",24/7 Pistas de blue
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398046
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Un show mas" tvg-logo="http://goldfull.pro:8880/images/ce60f9637d6771a128c5809f7ced3dda.jpg" group-title="✅ 24/7 VIP",24/7 Un show mas
+#EXTINF:-1 tvg-name="24/7 Un show mas"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ce60f9637d6771a128c5809f7ced3dda.jpg"group-title="✅ 24/7 VIP",24/7 Un show mas
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398047
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gumball" tvg-logo="http://goldfull.pro:8880/images/f07e83a832e29f53e70d41674a0a156b.jpg" group-title="✅ 24/7 VIP",24/7 Gumball
+#EXTINF:-1 tvg-name="24/7 Gumball"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f07e83a832e29f53e70d41674a0a156b.jpg"group-title="✅ 24/7 VIP",24/7 Gumball
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398048
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pj Mask" tvg-logo="http://goldfull.pro:8880/images/dba5ff2019597cd81eab4601a39bc891.jpg" group-title="✅ 24/7 VIP",24/7 Pj Mask
+#EXTINF:-1 tvg-name="24/7 Pj Mask"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/dba5ff2019597cd81eab4601a39bc891.jpg"group-title="✅ 24/7 VIP",24/7 Pj Mask
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398049
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el oso" tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg" group-title="✅ 24/7 VIP",24/7 Masha y el oso
+#EXTINF:-1 tvg-name="24/7 Masha y el oso"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg"group-title="✅ 24/7 VIP",24/7 Masha y el oso
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398050
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de muñecas de Gabby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" group-title="✅ 24/7 VIP",24/7 La casa de muñecas de Gabby
+#EXTINF:-1 tvg-name="24/7 La casa de muñecas de Gabby"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s"group-title="✅ 24/7 VIP",24/7 La casa de muñecas de Gabby
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398051
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chip y potato" tvg-logo="http://goldfull.pro:8880/images/77e7d3689a30179a497861c27d6ff230.jpg" group-title="✅ 24/7 VIP",24/7 Chip y potato
+#EXTINF:-1 tvg-name="24/7 Chip y potato"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/77e7d3689a30179a497861c27d6ff230.jpg"group-title="✅ 24/7 VIP",24/7 Chip y potato
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398052
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" tvg-logo="http://127.0.0.1/" group-title="✅ 24/7 VIP",24/7 Bluey
+#EXTINF:-1 tvg-name="24/7 Bluey"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✅ 24/7 VIP",24/7 Bluey
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398053
-#EXTINF:-1 tvg-id="" tvg-name="Dbz 2" tvg-logo="http://goldfull.pro:8880/images/3ccf5c334245f224cb4d52503e0dcadc.jpg" group-title="✅ 24/7 VIP",Dbz 2
+#EXTINF:-1 tvg-name="Dbz 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3ccf5c334245f224cb4d52503e0dcadc.jpg"group-title="✅ 24/7 VIP",Dbz 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398055
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Freezer" tvg-logo="http://goldfull.pro:8880/images/56c6caf4de4b4f642d09d516b9b7fb24.jpg" group-title="✅ 24/7 VIP",Dbz Freezer
+#EXTINF:-1 tvg-name="Dbz Freezer"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/56c6caf4de4b4f642d09d516b9b7fb24.jpg"group-title="✅ 24/7 VIP",Dbz Freezer
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398056
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Garlick" tvg-logo="http://goldfull.pro:8880/images/f0cd28a9234008f52ad909f63f0f38f3.jpg" group-title="✅ 24/7 VIP",Dbz Garlick
+#EXTINF:-1 tvg-name="Dbz Garlick"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f0cd28a9234008f52ad909f63f0f38f3.jpg"group-title="✅ 24/7 VIP",Dbz Garlick
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398057
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="✅ 24/7 VIP",Dbz Gt
+#EXTINF:-1 tvg-name="Dbz Gt"tvg-id=""tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe"group-title="✅ 24/7 VIP",Dbz Gt
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398058
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Heroes" tvg-logo="http://goldfull.pro:8880/images/22ba41774d7b5ce74556114c2c65b587.jpg" group-title="✅ 24/7 VIP",Dbz Heroes
+#EXTINF:-1 tvg-name="Dbz Heroes"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/22ba41774d7b5ce74556114c2c65b587.jpg"group-title="✅ 24/7 VIP",Dbz Heroes
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398059
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Kai" tvg-logo="http://goldfull.pro:8880/images/b3e2ee61bafe9e069ed3e3f7484fa6d1.jpg" group-title="✅ 24/7 VIP",Dbz Kai
+#EXTINF:-1 tvg-name="Dbz Kai"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b3e2ee61bafe9e069ed3e3f7484fa6d1.jpg"group-title="✅ 24/7 VIP",Dbz Kai
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398060
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Cell" tvg-logo="http://goldfull.pro:8880/images/d5ccdf62448cf90f89a0e6064fa233c9.jpg" group-title="✅ 24/7 VIP",Dbz Saga Cell
+#EXTINF:-1 tvg-name="Dbz Saga Cell"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/d5ccdf62448cf90f89a0e6064fa233c9.jpg"group-title="✅ 24/7 VIP",Dbz Saga Cell
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398061
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Majin Boo" tvg-logo="http://goldfull.pro:8880/images/362ebcfce2ee42f433c8baf3eb184c77.jpg" group-title="✅ 24/7 VIP",Dbz Saga Majin Boo
+#EXTINF:-1 tvg-name="Dbz Saga Majin Boo"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/362ebcfce2ee42f433c8baf3eb184c77.jpg"group-title="✅ 24/7 VIP",Dbz Saga Majin Boo
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398062
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="http://goldfull.pro:8880/images/5559a93e17b58a75f65190015c19be2b.jpg" group-title="✅ 24/7 VIP",Dbz Saga Sayayin
+#EXTINF:-1 tvg-name="Dbz Saga Sayayin"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/5559a93e17b58a75f65190015c19be2b.jpg"group-title="✅ 24/7 VIP",Dbz Saga Sayayin
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398063
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Super" tvg-logo="http://goldfull.pro:8880/images/217cfaf9eb6611f65aea01798b7d5b9d.jpg" group-title="✅ 24/7 VIP",Dbz Super
+#EXTINF:-1 tvg-name="Dbz Super"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/217cfaf9eb6611f65aea01798b7d5b9d.jpg"group-title="✅ 24/7 VIP",Dbz Super
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398064
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://goldfull.pro:8880/images/7989b479a34291320c5c42252422cc4f.jpg" group-title="✅ 24/7 VIP",Dragon Ball
+#EXTINF:-1 tvg-name="Dragon Ball"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/7989b479a34291320c5c42252422cc4f.jpg"group-title="✅ 24/7 VIP",Dragon Ball
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398065
-#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras De Morir" tvg-logo="http://goldfull.pro:8880/images/0182a45c44a2777cb36345b58111e749.jpg" group-title="✅ 24/7 VIP",1000 Maneras De Morir
+#EXTINF:-1 tvg-name="1000 Maneras De Morir"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0182a45c44a2777cb36345b58111e749.jpg"group-title="✅ 24/7 VIP",1000 Maneras De Morir
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398067
-#EXTINF:-1 tvg-id="" tvg-name="Art Attack" tvg-logo="http://goldfull.pro:8880/images/8852d3d92dc70937e3b095e7c72e36d5.jpg" group-title="✅ 24/7 VIP",Art Attack
+#EXTINF:-1 tvg-name="Art Attack"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8852d3d92dc70937e3b095e7c72e36d5.jpg"group-title="✅ 24/7 VIP",Art Attack
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398068
-#EXTINF:-1 tvg-id="" tvg-name="Automan" tvg-logo="http://goldfull.pro:8880/images/519661087a5f899403e83eb761ea0a57.jpg" group-title="✅ 24/7 VIP",Automan
+#EXTINF:-1 tvg-name="Automan"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/519661087a5f899403e83eb761ea0a57.jpg"group-title="✅ 24/7 VIP",Automan
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398069
-#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg" group-title="✅ 24/7 VIP",Chespirito
+#EXTINF:-1 tvg-name="Chespirito"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg"group-title="✅ 24/7 VIP",Chespirito
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398070
-#EXTINF:-1 tvg-id="" tvg-name="Chespirito 3" tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg" group-title="✅ 24/7 VIP",Chespirito 3
+#EXTINF:-1 tvg-name="Chespirito 3"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg"group-title="✅ 24/7 VIP",Chespirito 3
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398071
-#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="http://goldfull.pro:8880/images/8d367fd9c270d2fe31279c8bb08534d9.jpg" group-title="✅ 24/7 VIP",Dinosaurios
+#EXTINF:-1 tvg-name="Dinosaurios"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8d367fd9c270d2fe31279c8bb08534d9.jpg"group-title="✅ 24/7 VIP",Dinosaurios
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398072
-#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios 2" tvg-logo="http://goldfull.pro:8880/images/8d367fd9c270d2fe31279c8bb08534d9.jpg" group-title="✅ 24/7 VIP",Dinosaurios 2
+#EXTINF:-1 tvg-name="Dinosaurios 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8d367fd9c270d2fe31279c8bb08534d9.jpg"group-title="✅ 24/7 VIP",Dinosaurios 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398073
-#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg" group-title="✅ 24/7 VIP",El Chapulin Colorado
+#EXTINF:-1 tvg-name="El Chapulin Colorado"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg"group-title="✅ 24/7 VIP",El Chapulin Colorado
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398074
-#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico" tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg" group-title="✅ 24/7 VIP",El Coche Fantastico
+#EXTINF:-1 tvg-name="El Coche Fantastico"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg"group-title="✅ 24/7 VIP",El Coche Fantastico
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398075
-#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico 2" tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg" group-title="✅ 24/7 VIP",El Coche Fantastico 2
+#EXTINF:-1 tvg-name="El Coche Fantastico 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg"group-title="✅ 24/7 VIP",El Coche Fantastico 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398076
-#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico 3" tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg" group-title="✅ 24/7 VIP",El Coche Fantastico 3
+#EXTINF:-1 tvg-name="El Coche Fantastico 3"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8ff5940001072f9d0d29b4517a095bd2.jpg"group-title="✅ 24/7 VIP",El Coche Fantastico 3
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398077
-#EXTINF:-1 tvg-id="" tvg-name="El Zorro 1" tvg-logo="http://goldfull.pro:8880/images/a82abacab34fe3215ca28405ea1790cc.jpg" group-title="✅ 24/7 VIP",El Zorro 1
+#EXTINF:-1 tvg-name="El Zorro 1"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/a82abacab34fe3215ca28405ea1790cc.jpg"group-title="✅ 24/7 VIP",El Zorro 1
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398078
-#EXTINF:-1 tvg-id="" tvg-name="GooseBumps" tvg-logo="http://goldfull.pro:8880/images/b12045ae0993050884983b713a266dc2.jpg" group-title="✅ 24/7 VIP",GooseBumps
+#EXTINF:-1 tvg-name="GooseBumps"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b12045ae0993050884983b713a266dc2.jpg"group-title="✅ 24/7 VIP",GooseBumps
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398079
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Goosebumps 3" tvg-logo="http://goldfull.pro:8880/images/c9091bb7c41bfe74bcbed9c5f48b8d27.jpg" group-title="✅ 24/7 VIP",24/7 Goosebumps 3
+#EXTINF:-1 tvg-name="24/7 Goosebumps 3"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c9091bb7c41bfe74bcbed9c5f48b8d27.jpg"group-title="✅ 24/7 VIP",24/7 Goosebumps 3
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398080
-#EXTINF:-1 tvg-id="" tvg-name="Hechizada 4" tvg-logo="http://goldfull.pro:8880/images/84c011bf26f0b0b7b18fb6f6b954dbe2.jpg" group-title="✅ 24/7 VIP",Hechizada 4
+#EXTINF:-1 tvg-name="Hechizada 4"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/84c011bf26f0b0b7b18fb6f6b954dbe2.jpg"group-title="✅ 24/7 VIP",Hechizada 4
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398081
-#EXTINF:-1 tvg-id="" tvg-name="KungFu" tvg-logo="http://goldfull.pro:8880/images/f6b3a6e8d0668277a9568c8713491359.jpg" group-title="✅ 24/7 VIP",KungFu
+#EXTINF:-1 tvg-name="KungFu"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f6b3a6e8d0668277a9568c8713491359.jpg"group-title="✅ 24/7 VIP",KungFu
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398082
-#EXTINF:-1 tvg-id="" tvg-name="La Isla De Gilligans 1" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="✅ 24/7 VIP",La Isla De Gilligans 1
+#EXTINF:-1 tvg-name="La Isla De Gilligans 1"tvg-id=""tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg"group-title="✅ 24/7 VIP",La Isla De Gilligans 1
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398083
-#EXTINF:-1 tvg-id="" tvg-name="Magcyver 2" tvg-logo="http://goldfull.pro:8880/images/fbe81873d57617258b60487731ec8c64.jpg" group-title="✅ 24/7 VIP",Magcyver 2
+#EXTINF:-1 tvg-name="Magcyver 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/fbe81873d57617258b60487731ec8c64.jpg"group-title="✅ 24/7 VIP",Magcyver 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398084
-#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="✅ 24/7 VIP",Super Agente 86
+#EXTINF:-1 tvg-name="Super Agente 86"tvg-id=""tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV"group-title="✅ 24/7 VIP",Super Agente 86
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398085
-#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86 2" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="✅ 24/7 VIP",Super Agente 86 2
+#EXTINF:-1 tvg-name="Super Agente 86 2"tvg-id=""tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV"group-title="✅ 24/7 VIP",Super Agente 86 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398086
-#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="✅ 24/7 VIP",Super Agente 86 3
+#EXTINF:-1 tvg-name="Super Agente 86 3"tvg-id=""tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV"group-title="✅ 24/7 VIP",Super Agente 86 3
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398087
-#EXTINF:-1 tvg-id="" tvg-name="Tres Chiflados 1" tvg-logo="http://goldfull.pro:8880/images/685087b66a6eab6f25b38584940fec9e.jpg" group-title="✅ 24/7 VIP",Tres Chiflados 1
+#EXTINF:-1 tvg-name="Tres Chiflados 1"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/685087b66a6eab6f25b38584940fec9e.jpg"group-title="✅ 24/7 VIP",Tres Chiflados 1
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398088
-#EXTINF:-1 tvg-id="" tvg-name="Tres chiflados 2" tvg-logo="http://goldfull.pro:8880/images/685087b66a6eab6f25b38584940fec9e.jpg" group-title="✅ 24/7 VIP",Tres chiflados 2
+#EXTINF:-1 tvg-name="Tres chiflados 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/685087b66a6eab6f25b38584940fec9e.jpg"group-title="✅ 24/7 VIP",Tres chiflados 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398089
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Bob Esponja" tvg-logo="https://i.postimg.cc/Cx4tBhD8/BOB-ESPONJA.png" group-title="CANALES 24/7",24/7: Bob Esponja
+http://playtv44.com:8080/971627115/123456/83457
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Disney Action" tvg-logo="https://i.postimg.cc/rpnPjffF/DISNEY.png" group-title="CANALES 24/7",24/7 Disney Action
+http://playtv44.com:8080/971627115/123456/83460
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Zone" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png" group-title="CANALES 24/7",24/7 Dragon Ball Zone
+http://playtv44.com:8080/971627115/123456/83462
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Smallville" tvg-logo="https://i.postimg.cc/yxFjMjyR/SMALL-VILLE.png" group-title="CANALES 24/7",24/7: Smallville
+http://playtv44.com:8080/971627115/123456/83477
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El show de los Looney Tunes" tvg-logo="https://i.postimg.cc/3JXfV8tq/LOONEY-TUNES.png" group-title="CANALES 24/7",24/7: El show de los Looney Tunes
+http://playtv44.com:8080/971627115/123456/83479
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Thundercats" tvg-logo="https://i.postimg.cc/GhCqF0bx/THUNDERCATS.png" group-title="CANALES 24/7",24/7: Thundercats
+http://playtv44.com:8080/971627115/123456/83486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE 2024 " tvg-logo="http://playtv44.com:8080/images/12b29b2ce83c7633df89a35370cc15e3.jpg" group-title="CANALES 24/7",24/7 CINE 2024 
+http://playtv44.com:8080/971627115/123456/217059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI Las Vegas " tvg-logo="https://i.postimg.cc/wBTrDCcG/CSI-VEGA.png" group-title="CANALES 24/7",24/7 CSI Las Vegas 
+http://playtv44.com:8080/971627115/123456/217060
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PrimeVideo  ᴴᴰ" tvg-logo="https://i.postimg.cc/mD18wBc8/PRIME-VIDEO.png" group-title="CANALES 24/7",24/7: PrimeVideo  ᴴᴰ
+http://playtv44.com:8080/971627115/123456/217062
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pelis TAQUILLA" tvg-logo="http://playtv44.com:8080/images/b7f7ada7d848002260ee5eb7d8835709.jpg" group-title="CANALES 24/7",24/7 Pelis TAQUILLA
+http://playtv44.com:8080/971627115/123456/217064
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NETFLIX " tvg-logo="https://th.bing.com/th/id/R.fab1d397d6438ba1d9d053dd474758f6?rik=zLv2r0VKTeN5Ug&riu=http%3a%2f%2fes.web.img1.acsta.net%2fr_640_600%2fb_1_d6d6d6%2fmedias%2fnmedia%2f18%2f68%2f91%2f15%2f18860704.jpg&ehk=Nzq%2bxAZ8MKaYP9b2GdqeuLK6l8R5fHrP0NZyGIKfuVY%3d&risl=&pid=ImgRaw&r=0" group-title="CANALES 24/7",24/7 NETFLIX 
+http://playtv44.com:8080/971627115/123456/217065
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantil" tvg-logo="http://playtv44.com:8080/images/be50cf6dffad580c39320aad429c2210.png" group-title="CANALES 24/7",24/7 | Infantil
+http://playtv44.com:8080/971627115/123456/217068
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Variedad" tvg-logo="https://i.postimg.cc/QxJSS6tG/VARIEDAD.png" group-title="CANALES 24/7",24/7  Variedad
+http://playtv44.com:8080/971627115/123456/217069
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Futurama ●" tvg-logo="https://i.postimg.cc/5yvKxbb6/FUTURAMA.png" group-title="CANALES 24/7",24/7: Futurama ●
+http://playtv44.com:8080/971627115/123456/217070
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Serie PACMAN ●" tvg-logo="https://i.postimg.cc/HLgyKmP6/pacman.png" group-title="CANALES 24/7",24/7:  Serie PACMAN ●
+http://playtv44.com:8080/971627115/123456/217071
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  SONIC full ●" tvg-logo="https://i.postimg.cc/BZDmPZfv/SONIC.png" group-title="CANALES 24/7",24/7:  SONIC full ●
+http://playtv44.com:8080/971627115/123456/217072
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  LEGO  Zone ●" tvg-logo="https://i.postimg.cc/Qd570CSB/lego.png" group-title="CANALES 24/7",24/7:  LEGO  Zone ●
+http://playtv44.com:8080/971627115/123456/217073
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Kids Familiar" tvg-logo="http://playtv44.com:8080/images/7c93957cfd99032395c39b792c2d2c2c.png" group-title="CANALES 24/7",24/7:  Kids Familiar
+http://playtv44.com:8080/971627115/123456/217074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Padre de Familia " tvg-logo="https://i.postimg.cc/Xvzsdpvr/PADRE-DE-FAMILIA.png" group-title="CANALES 24/7",24/7 Padre de Familia 
+http://playtv44.com:8080/971627115/123456/217075
+#EXTINF:-1 tvg-id="" tvg-name="24/7: The Big Bang Theory" tvg-logo="https://i.postimg.cc/T3xF3LyG/BIGBANG.png" group-title="CANALES 24/7",24/7: The Big Bang Theory
+http://playtv44.com:8080/971627115/123456/217076
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Bob Esponja" tvg-logo="https://i.postimg.cc/Cx4tBhD8/BOB-ESPONJA.png" group-title="CANALES 24/7",24/7: Bob Esponja
+http://playtv44.com:8080/971627115/123456/83457
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Disney Action" tvg-logo="https://i.postimg.cc/rpnPjffF/DISNEY.png" group-title="CANALES 24/7",24/7 Disney Action
+http://playtv44.com:8080/971627115/123456/83460
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Zone" tvg-logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png" group-title="CANALES 24/7",24/7 Dragon Ball Zone
+http://playtv44.com:8080/971627115/123456/83462
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Smallville" tvg-logo="https://i.postimg.cc/yxFjMjyR/SMALL-VILLE.png" group-title="CANALES 24/7",24/7: Smallville
+http://playtv44.com:8080/971627115/123456/83477
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El show de los Looney Tunes" tvg-logo="https://i.postimg.cc/3JXfV8tq/LOONEY-TUNES.png" group-title="CANALES 24/7",24/7: El show de los Looney Tunes
+http://playtv44.com:8080/971627115/123456/83479
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Thundercats" tvg-logo="https://i.postimg.cc/GhCqF0bx/THUNDERCATS.png" group-title="CANALES 24/7",24/7: Thundercats
+http://playtv44.com:8080/971627115/123456/83486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE 2024 " tvg-logo="http://playtv44.com:8080/images/12b29b2ce83c7633df89a35370cc15e3.jpg" group-title="CANALES 24/7",24/7 CINE 2024 
+http://playtv44.com:8080/971627115/123456/217059
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI Las Vegas " tvg-logo="https://i.postimg.cc/wBTrDCcG/CSI-VEGA.png" group-title="CANALES 24/7",24/7 CSI Las Vegas 
+http://playtv44.com:8080/971627115/123456/217060
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PrimeVideo  ᴴᴰ" tvg-logo="https://i.postimg.cc/mD18wBc8/PRIME-VIDEO.png" group-title="CANALES 24/7",24/7: PrimeVideo  ᴴᴰ
+http://playtv44.com:8080/971627115/123456/217062
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pelis TAQUILLA" tvg-logo="http://playtv44.com:8080/images/b7f7ada7d848002260ee5eb7d8835709.jpg" group-title="CANALES 24/7",24/7 Pelis TAQUILLA
+http://playtv44.com:8080/971627115/123456/217064
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NETFLIX " tvg-logo="https://th.bing.com/th/id/R.fab1d397d6438ba1d9d053dd474758f6?rik=zLv2r0VKTeN5Ug&riu=http%3a%2f%2fes.web.img1.acsta.net%2fr_640_600%2fb_1_d6d6d6%2fmedias%2fnmedia%2f18%2f68%2f91%2f15%2f18860704.jpg&ehk=Nzq%2bxAZ8MKaYP9b2GdqeuLK6l8R5fHrP0NZyGIKfuVY%3d&risl=&pid=ImgRaw&r=0" group-title="CANALES 24/7",24/7 NETFLIX 
+http://playtv44.com:8080/971627115/123456/217065
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantil" tvg-logo="http://playtv44.com:8080/images/be50cf6dffad580c39320aad429c2210.png" group-title="CANALES 24/7",24/7 | Infantil
+http://playtv44.com:8080/971627115/123456/217068
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Variedad" tvg-logo="https://i.postimg.cc/QxJSS6tG/VARIEDAD.png" group-title="CANALES 24/7",24/7  Variedad
+http://playtv44.com:8080/971627115/123456/217069
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Futurama ●" tvg-logo="https://i.postimg.cc/5yvKxbb6/FUTURAMA.png" group-title="CANALES 24/7",24/7: Futurama ●
+http://playtv44.com:8080/971627115/123456/217070
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Serie PACMAN ●" tvg-logo="https://i.postimg.cc/HLgyKmP6/pacman.png" group-title="CANALES 24/7",24/7:  Serie PACMAN ●
+http://playtv44.com:8080/971627115/123456/217071
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  SONIC full ●" tvg-logo="https://i.postimg.cc/BZDmPZfv/SONIC.png" group-title="CANALES 24/7",24/7:  SONIC full ●
+http://playtv44.com:8080/971627115/123456/217072
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  LEGO  Zone ●" tvg-logo="https://i.postimg.cc/Qd570CSB/lego.png" group-title="CANALES 24/7",24/7:  LEGO  Zone ●
+http://playtv44.com:8080/971627115/123456/217073
+#EXTINF:-1 tvg-id="" tvg-name="24/7:  Kids Familiar" tvg-logo="http://playtv44.com:8080/images/7c93957cfd99032395c39b792c2d2c2c.png" group-title="CANALES 24/7",24/7:  Kids Familiar
+http://playtv44.com:8080/971627115/123456/217074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Padre de Familia " tvg-logo="https://i.postimg.cc/Xvzsdpvr/PADRE-DE-FAMILIA.png" group-title="CANALES 24/7",24/7 Padre de Familia 
+http://playtv44.com:8080/971627115/123456/217075
+#EXTINF:-1 tvg-id="" tvg-name="24/7: The Big Bang Theory" tvg-logo="https://i.postimg.cc/T3xF3LyG/BIGBANG.png" group-title="CANALES 24/7",24/7: The Big Bang Theory
+http://playtv44.com:8080/971627115/123456/217076
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOS SIMPSONS" tvg-logo="https://i.postimg.cc/Z5j7YftF/LOS-SIMPSONS.png" group-title="CANALES 24/7",24/7: LOS SIMPSONS
+http://playtv44.com:8080/971627115/123456/83476
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El Chapuli­n Colorado" tvg-logo="https://i.postimg.cc/B6jwV2z5/EL-CHAPULIN-COLORADO.png" group-title="CANALES 24/7",24/7: El Chapuli­n Colorado
+http://playtv44.com:8080/971627115/123456/83464
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chavo del 8" tvg-logo="https://i.postimg.cc/xCBFDcrw/EL-CHAVO-DEL-8.png" group-title="CANALES 24/7",24/7 Chavo del 8
+http://playtv44.com:8080/971627115/123456/196187
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Caballeros Del Zodiaco" tvg-logo="https://i.postimg.cc/YCtDw5VC/LOS-CABALLEROS-DEL-ZODIACO.png" group-title="CANALES 24/7",24/7: Caballeros Del Zodiaco
+http://playtv44.com:8080/971627115/123456/83485
