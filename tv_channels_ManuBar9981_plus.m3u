@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="MX | T_UDN MX ᴴᴰ"tvg-id="I464.75176.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png"group-title="✅️LIGA MX",MX | T_UDN MX ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/153955
-#EXTINF:-1 tvg-name="MX | T_UDN USA ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png"group-title="✅️LIGA MX",MX | T_UDN USA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/153956
 #EXTINF:-1 tvg-name="DEP_HD | BEIN SPORTS Ñ ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | BEIN SPORTS Ñ ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/2682
 #EXTINF:-1 tvg-name="DEP_HD | BEIN SPORTS Ñ USA ᴴᴰ"tvg-id="beinsportsxtra.us"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | BEIN SPORTS Ñ USA ᴴᴰ
@@ -25,8 +21,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/144343
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/144345
 #EXTINF:-1 tvg-name="DEP_HD | MOVISTAR DEPORTES PERU ᴴᴰ"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | MOVISTAR DEPORTES PERU ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/144347
-#EXTINF:-1 tvg-name="MX | FOX SPORTS PREMIUM ᴴᴰ"tvg-id="I312.123582.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png"group-title="✅️LIGA MX",MX | FOX SPORTS PREMIUM ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/146173
 #EXTINF:-1 tvg-name="DEP_HD | CANAL MOTOR US ᴴᴰ"tvg-id=""tvg-logo=""group-title="DEPORTES PREMIUM | HD",DEP_HD | CANAL MOTOR US ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/146531
 #EXTINF:-1 tvg-name="DEP_HD | YES NETWORK"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | YES NETWORK
@@ -1277,8 +1271,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167479
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167480
 #EXTINF:-1 tvg-name="15 | Argentina - Liga Profesional ᴴᴰ"tvg-id="I604.30262.schedulesdirect.org"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png"group-title="✅️FUTBOL SUDAMERICA",15 | Argentina - Liga Profesional ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167481
-#EXTINF:-1 tvg-name="PE | L1MAX (Op.1)"tvg-id="LIGA 1 MAX PERU *HQ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/512px-L1MAX-LOGO.svg.png"group-title="✅️LIGA1 PERU",PE | L1MAX (Op.1)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167495
 #EXTINF:-1 tvg-name="24 | TDTV + HN"tvg-id=""tvg-logo="http://www.cholutecatv.com/wp-content/uploads/2020/11/cholutecatv-768x247.png"group-title="HONDURAS",24 | TDTV + HN
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167496
 #EXTINF:-1 tvg-name="25 | SITV | HON"tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/si-tv-honduras-100x70.png"group-title="HONDURAS",25 | SITV | HON
@@ -1301,14 +1293,8 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167565
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/167569
 #EXTINF:-1 tvg-name="43 | CANAL 8 TELEVISA MTY | FHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png"group-title="✅️MEXICO",43 | CANAL 8 TELEVISA MTY | FHD
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/168407
-#EXTINF:-1 tvg-name="PE | L1MAX (Op.2)"tvg-id="LIGA 1 PERU *HQ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/512px-L1MAX-LOGO.svg.png"group-title="✅️LIGA1 PERU",PE | L1MAX (Op.2)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/168410
-#EXTINF:-1 tvg-name="PE | GOL PERU (Op.1)"tvg-id="GOL PERU *HQ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png"group-title="✅️LIGA1 PERU",PE | GOL PERU (Op.1)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/168411
 #EXTINF:-1 tvg-name="67 | CINEMA DINAMITA ᴴᴰ"tvg-id="CDINA.Cinema.Dinamita.us"tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png"group-title="✅️CINE & SERIES",67 | CINEMA DINAMITA ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/169700
-#EXTINF:-1 tvg-name="PE | GOL PERU (Op.2)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png"group-title="✅️LIGA1 PERU",PE | GOL PERU (Op.2)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/169721
 #EXTINF:-1 tvg-name="20 | Uruguay - Primera División"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1661.png"group-title="✅️FUTBOL SUDAMERICA",20 | Uruguay - Primera División
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/169722
 #EXTINF:-1 tvg-name="21 | Uruguay - Primera División ᴴᴰ"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1661.png"group-title="✅️FUTBOL SUDAMERICA",21 | Uruguay - Primera División ᴴᴰ
@@ -1403,8 +1389,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183133
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183134
 #EXTINF:-1 tvg-name="NT | RT ESPANOL"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png"group-title="NOTICIAS",NT | RT ESPANOL
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183146
-#EXTINF:-1 tvg-name="MX | FOX SPORTS MX ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png"group-title="✅️LIGA MX",MX | FOX SPORTS MX ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183147
 #EXTINF:-1 tvg-name="NT | AL JAZEERA USA ᴴᴰ"tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Al-Jazeera-en-directo-Online-80x60.png"group-title="NOTICIAS",NT | AL JAZEERA USA ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183148
 #EXTINF:-1 tvg-name="NT | HISPANTV ᴴᴰ"tvg-id=""tvg-logo="https://cdn.mitvstatic.com/channels/hn_hispan-tv_m.png"group-title="NOTICIAS",NT | HISPANTV ᴴᴰ
@@ -1415,14 +1399,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183512
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/194398
 #EXTINF:-1 tvg-name="DEP_HD | MLB NETWORK ᴴᴰ"tvg-id=""tvg-logo="http://assets.stickpng.com/images/584d4c0e0a44bd1070d5d495.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | MLB NETWORK ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/196504
-#EXTINF:-1 tvg-name="01 | COMBATE BR | HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png"group-title="BOXEO - UFC - WWE",01 | COMBATE BR | HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/163574
-#EXTINF:-1 tvg-name="MX | FOX DEPORTES ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png"group-title="✅️LIGA MX",MX | FOX DEPORTES ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/179867
-#EXTINF:-1 tvg-name="02 | Lucha Libre AAA ᴴᴰ"tvg-id=""tvg-logo="https://i.imgur.com/Nc7K060.png"group-title="BOXEO - UFC - WWE",02 | Lucha Libre AAA ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183751
-#EXTINF:-1 tvg-name="03 | UFC NT"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png"group-title="BOXEO - UFC - WWE",03 | UFC NT
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183752
 #EXTINF:-1 tvg-name="UY | CANAL 4 "tvg-id="Canal.4.Paysandú.uy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",UY | CANAL 4
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/199389
 #EXTINF:-1 tvg-name="UY | CANAL 4 ᴴᴰ"tvg-id="Canal.4.Paysandú.uy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",UY | CANAL 4 ᴴᴰ
@@ -1451,12 +1427,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/199402
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/199403
 #EXTINF:-1 tvg-name="15 | TV CIUDAD | UY ᴴᴰ"tvg-id="UR | TV CIUDAD  *HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/TV_Ciudad_logo_2019.png"group-title="URUGUAY",15 | TV CIUDAD | UY ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/199430
-#EXTINF:-1 tvg-name="MX | CLARO SPORTS ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png"group-title="✅️LIGA MX",MX | CLARO SPORTS ᴴᴰ
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/200864
-#EXTINF:-1 tvg-name="01 | F1"tvg-id="SP | DAZN F1 *FHD"tvg-logo="https://img2.sport-tv-guide.live/images/stations/a366.png"group-title="FORMULA 1 ",01 | F1
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/194938
-#EXTINF:-1 tvg-name="02 | F1"tvg-id="SP | DAZN F1 *FHD"tvg-logo="https://img2.sport-tv-guide.live/images/stations/a366.png"group-title="FORMULA 1 ",02 | F1
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/194969
 #EXTINF:-1 tvg-name="44 | CINEMA ᴴᴰ"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_cinema-mediano.png"group-title="✅️MEXICO",44 | CINEMA ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/209284
 #EXTINF:-1 tvg-name="RD | CDN DEPORTES "tvg-id=""tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2023/11/CDN-Deportes-Logo.png"group-title="REPUBLICA DOMINICANA",RD | CDN DEPORTES
@@ -1971,8 +1941,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/239780
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241483
 #EXTINF:-1 tvg-name="DEP_SD | GOLTV LAT"tvg-id="cinemadinamita.co"tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1658.png"group-title="DEPORTES PREMIUM | SD",DEP_SD | GOLTV LAT
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/223552
-#EXTINF:-1 tvg-name="03 | SKY SPORTS UK F1"tvg-id=""tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png"group-title="FORMULA 1 ",03 | SKY SPORTS UK F1
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/264056
 #EXTINF:-1 tvg-name="102 | FOX SPORTS 2 MX ᴴᴰ"tvg-id="FOX SPORTS 2 MX *FHD"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png"group-title="PREMIUM ᴴᴰ",102 | FOX SPORTS 2 MX ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/264509
 #EXTINF:-1 tvg-name="01 | A&E"tvg-id="I6.18955.schedulesdirect.org"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png"group-title="✅️CLARO COLOMBIA",01 | A&E
@@ -2449,8 +2417,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/319484
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/319485
 #EXTINF:-1 tvg-name="METRODIGITAL RADIO"tvg-id=""tvg-logo=""group-title="MUSICA",METRODIGITAL RADIO
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/319932
-#EXTINF:-1 tvg-name="198 | FREEFORM HD"tvg-id="Freeform.-.East.Feed.us"tvg-logo="https://creativecontenttv.com/wp-content/uploads/2021/07/289-2894686_transparent-freeform-logo-png-freeform-channel-logo-png.png"group-title="✅️ABC-NBC-CBS-FOX",198 | FREEFORM HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/319999
 #EXTINF:-1 tvg-name="18 | VTV ᴴᴰ"tvg-id=""tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/184.png"group-title="URUGUAY",18 | VTV ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/321907
 #EXTINF:-1 tvg-name="19 | VTV PLUS ᴴᴰ"tvg-id="VTV.+.HD.uy"tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-plus-uy.png"group-title="URUGUAY",19 | VTV PLUS ᴴᴰ
@@ -2481,34 +2447,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323403
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323404
 #EXTINF:-1 tvg-name="57 | TCM USA ᴴᴰ"tvg-id=""tvg-logo="http://fanc.tmsimg.com/assets/s64312_ll_h3_aa.png"group-title="USA | MOVIES",57 | TCM USA ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323405
-#EXTINF:-1 tvg-name="BALLY SPORTS ARIZONA"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bally_Sports_Arizona_logo.svg/1200px-Bally_Sports_Arizona_logo.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS ARIZONA
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323414
-#EXTINF:-1 tvg-name="BALLY SPORTS DETROIT PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bally_Sports_Detroit_logo.svg/1200px-Bally_Sports_Detroit_logo.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS DETROIT PLUS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323417
-#EXTINF:-1 tvg-name="BALLY SPORTS FLORIDA"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bally_Sports_Florida_logo.svg/1200px-Bally_Sports_Florida_logo.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS FLORIDA
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323418
-#EXTINF:-1 tvg-name="BALLY SPORTS GREAT LAKES"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bally_Sports_Great_Lakes_logo.svg/1200px-Bally_Sports_Great_Lakes_logo.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS GREAT LAKES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323419
-#EXTINF:-1 tvg-name="BALLY SPORTS MIDWEST PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bally_Sports_Midwest.png"group-title="USA | BALLY SPORTS",BALLY SPORTS MIDWEST PLUS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323424
-#EXTINF:-1 tvg-name="BALLY SPORTS NORTH"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Bally_Sports_North.png"group-title="USA | BALLY SPORTS",BALLY SPORTS NORTH
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323427
-#EXTINF:-1 tvg-name="BALLY SPORTS OKLAHOMA"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Bally_Sports_Oklahoma.png"group-title="USA | BALLY SPORTS",BALLY SPORTS OKLAHOMA
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323431
-#EXTINF:-1 tvg-name="BALLY SPORTS OKLAHOMA PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Bally_Sports_Oklahoma.png"group-title="USA | BALLY SPORTS",BALLY SPORTS OKLAHOMA PLUS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323432
-#EXTINF:-1 tvg-name="BALLY SPORTS SAN DIEGO PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bally_Sports_San_Diego_logo.svg/1200px-Bally_Sports_San_Diego_logo.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS SAN DIEGO PLUS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323433
-#EXTINF:-1 tvg-name="BALLY SPORTS SOCAL"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bally_sports_socal.svg/1200px-Bally_sports_socal.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS SOCAL
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323434
-#EXTINF:-1 tvg-name="BALLY SPORTS SOUTH"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Bally_Sports_South.png"group-title="USA | BALLY SPORTS",BALLY SPORTS SOUTH
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323435
-#EXTINF:-1 tvg-name="BALLY SPORTS SUN"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bally_Sports_Sun.svg/1200px-Bally_Sports_Sun.svg.png"group-title="USA | BALLY SPORTS",BALLY SPORTS SUN
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323440
-#EXTINF:-1 tvg-name="BALLY SPORTS WISCONSIN"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Bally_Sports_Wisconsin.png"group-title="USA | BALLY SPORTS",BALLY SPORTS WISCONSIN
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323441
-#EXTINF:-1 tvg-name="BALLY SPORTS WISCONSIN PLUS"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Bally_Sports_Wisconsin.png"group-title="USA | BALLY SPORTS",BALLY SPORTS WISCONSIN PLUS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/323442
 #EXTINF:-1 tvg-name="NT | CABLE NOTICIAS"tvg-id="CO | CABLENOTICIAS *HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png"group-title="NOTICIAS",NT | CABLE NOTICIAS
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/183124
 #EXTINF:-1 tvg-name="NIC | Canal 4"tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Nicaragua-en-vivo-Online.png"group-title="NICARAGUA",NIC | Canal 4
@@ -2641,8 +2579,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325335
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/325336
 #EXTINF:-1 tvg-name="20 | BYM SPORTS | VEN"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LOGOS-BYM-ALARGADO.jpg/120px-LOGOS-BYM-ALARGADO.jpg"group-title="VENEZUELA",20 | BYM SPORTS | VEN
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/327856
-#EXTINF:-1 tvg-name="MX | (VIX) ZONA TUDN"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1200px-ViX_Logo.svg.png"group-title="✅️LIGA MX",MX | (VIX) ZONA TUDN
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/305915
 #EXTINF:-1 tvg-name="DEP_HD | SKY SPORTS MX "tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png"group-title="DEPORTES PREMIUM | HD",DEP_HD | SKY SPORTS MX
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/144286
 #EXTINF:-1 tvg-name="01 | DISNEY + (ESP)"tvg-id=""tvg-logo="https://newsodin.com/wp-content/uploads/2023/05/Disney_logo.svg_.png"group-title="✅️DISNEY + ",01 | DISNEY + (ESP)
@@ -3041,66 +2977,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/457850
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/457851
 #EXTINF:-1 tvg-name="Sin senos sí hay paraíso"tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w185/3xtkFVoY24A1oyaSZP64RjhG3hJ.jpg"group-title="CANALES | 24/7",Sin senos sí hay paraíso
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/457852
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 NINOS 1
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507620
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 NINOS 2
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507621
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7  NINOS 3
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507622
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES]  24/7  NINOS 4
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507623
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 1
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507619
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 2
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507617
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 3
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507616
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 4
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507615
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 5
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507614
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 6
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507613
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 7
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507612
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 8
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507611
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 10
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507609
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 11
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507608
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 12
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507607
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 13
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507606
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 14
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507605
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 16
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507604
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 15
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507603
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 17
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507602
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 18
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507601
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 19
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507600
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 20
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507597
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 21
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/770027
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 22
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/770026
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 23
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/770025
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PELICULAS 24
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/770024
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 BOB ESPONJA
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507598
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 EL CHAVO DEL 8
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/719131
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="24/7 ESPAÑA",[ES] 24/7 PADRE DE FAMILIA
-http://dm.lion-ott.com:80/v7hu2338/vZbQ9068/507618
 #EXTINF:-1 tvg-name="32 | CITY TV"tvg-id="City.TV.ba"tvg-logo=""group-title=" ✅️COLOMBIA",32 | CITY TV
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/266528
 #EXTINF:-1 tvg-name="RD |  TELEANTILLAS"tvg-id=""tvg-logo="https://i.postimg.cc/W1LK5KPg/TELEANTILLAS.png"group-title="R. DOMINICANA ⇔2",RD |  TELEANTILLAS
@@ -3317,8 +3193,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/270576
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/236061
 #EXTINF:-1 tvg-name="COL | RCN Nuestra Tele ᴴᴰ"tvg-id="I138.101730.schedulesdirect.org"tvg-logo=""group-title="✅️CARACOL - RCN ",COL | RCN Nuestra Tele ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/236024
-#EXTINF:-1 tvg-name="MX | FOX DEPORTES"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png"group-title="✅️LIGA MX",MX | FOX DEPORTES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/482242
 #EXTINF:-1 tvg-name="EC | CANAL UNO"tvg-id=""tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png"group-title="✅️ECUADOR",EC | CANAL UNO
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/507391
 #EXTINF:-1 tvg-name="ARMANDO ALDICIN 24/7"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzg4DT1gH-1FZJZQQZIACxjawrA1ihR63JAg&usqp=CAU"group-title="RELIGION",ARMANDO ALDICIN 24/7
@@ -3531,22 +3405,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/472068
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/472069
 #EXTINF:-1 tvg-name="COL | WIN SPORTS | SD"tvg-id=""tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02_0.png"group-title="✅️LIGA COLOMBIANA (WIN SPORTS)",COL | WIN SPORTS | SD
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/472070
-#EXTINF:-1 tvg-name="01 | Channel 13 News"tvg-id=""tvg-logo=""group-title="ISRAEL",01 | Channel 13 News
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241506
-#EXTINF:-1 tvg-name="02 | Channel 14"tvg-id=""tvg-logo=""group-title="ISRAEL",02 | Channel 14
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241608
-#EXTINF:-1 tvg-name="04 | Hidabroot TV"tvg-id=""tvg-logo=""group-title="ISRAEL",04 | Hidabroot TV
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241610
-#EXTINF:-1 tvg-name="05 | Israel Pars TV"tvg-id=""tvg-logo=""group-title="ISRAEL",05 | Israel Pars TV
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241612
-#EXTINF:-1 tvg-name="06 | Kab TV"tvg-id=""tvg-logo=""group-title="ISRAEL",06 | Kab TV
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241613
-#EXTINF:-1 tvg-name="07 | KAN 11"tvg-id=""tvg-logo=""group-title="ISRAEL",07 | KAN 11
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241705
-#EXTINF:-1 tvg-name="03 | HOLA TV "tvg-id=""tvg-logo=""group-title="ISRAEL",03 | HOLA TV
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241609
-#EXTINF:-1 tvg-name="08 | Knesset"tvg-id=""tvg-logo=""group-title="ISRAEL",08 | Knesset
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/241706
 #EXTINF:-1 tvg-name="US | ABC"tvg-id="ABC.News.ch"tvg-logo="https://w7.pngwing.com/pngs/105/149/png-transparent-american-broadcasting-company-abc-news-television-show-television-network-others-television-logo-news.png"group-title="✅️USA CHANNELS",US | ABC
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/328139
 #EXTINF:-1 tvg-name="US | ANIMAL PLANET ᴴᴰ"tvg-id="ANIMAL.PLANET.in"tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png"group-title="✅️USA CHANNELS",US | ANIMAL PLANET ᴴᴰ
@@ -3659,18 +3517,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/333043
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/333044
 #EXTINF:-1 tvg-name="09 | ONCE NIÑOS"tvg-id=""tvg-logo=""group-title="✅️IKS HD | CANALES PREMIUM",09 | ONCE NIÑOS
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/333045
-#EXTINF:-1 tvg-name="⚽ M+  LIGA CAMPEONES 5  SD   (solo eventos )"tvg-id=""tvg-logo="http://teamzz.net:8080/images/olbYEYwj1Y_S-T4RHOfaYu-0UA6sQ10LGMkmKUgDMQzI0UDS5CMDFvz_75c7Xg5HotREdpnjD-TgdFZ7g1LBerKqBX1dzFVjWQVDV13RKP0.png"group-title="LIGA DE CAMPEONES",⚽ M+  LIGA CAMPEONES 5  SD   (solo eventos )
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/334675
-#EXTINF:-1 tvg-name="⚽ M+  LIGA CAMPEONES 7 SD   (solo eventos )"tvg-id=""tvg-logo="http://teamzz.net:8080/images/olbYEYwj1Y_S-T4RHOfaYu-0UA6sQ10LGMkmKUgDMQzI0UDS5CMDFvz_75c7Xg5H9z7oG75DEXslrDYw8CIG5bs9ZcSEoTCbyZ4TwTdZT_E.png"group-title="LIGA DE CAMPEONES",⚽ M+  LIGA CAMPEONES 7 SD   (solo eventos )
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/334677
-#EXTINF:-1 tvg-name="EU | TNT SPORTS 1 (UK)"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | TNT SPORTS 1 (UK)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/339620
-#EXTINF:-1 tvg-name="EU | TNT  SPORTS 2 (UK)"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | TNT  SPORTS 2 (UK)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/339621
-#EXTINF:-1 tvg-name="EU | TNT SPORTS 3 (UK)"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | TNT SPORTS 3 (UK)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/339659
-#EXTINF:-1 tvg-name="EU | TNT SPORTS 4 (UK)"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | TNT SPORTS 4 (UK)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/339803
 #EXTINF:-1 tvg-name="ARG | TyC SPORTS INTERNACIONAL"tvg-id="TYC.SPORTS.HD.uy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png"group-title="✅️SUPER LIGA ARGENTINA",ARG | TyC SPORTS INTERNACIONAL
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/340921
 #EXTINF:-1 tvg-name="ARG | TyC SPORTS HD"tvg-id="TYC.SPORTS.HD.uy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png"group-title="✅️SUPER LIGA ARGENTINA",ARG | TyC SPORTS HD
@@ -3711,8 +3557,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/329367
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/329370
 #EXTINF:-1 tvg-name="10 | HBO XTREME ᴴᴰ"tvg-id="I367.80115.schedulesdirect.org"tvg-logo="https://static.wikia.nocookie.net/rarter/images/d/da/HBO_Xtreme.png"group-title="✅️HBO PREMIUM",10 | HBO XTREME ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/329371
-#EXTINF:-1 tvg-name="EU | PREMIER SPORTS"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | PREMIER SPORTS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/341312
 #EXTINF:-1 tvg-name="01 | DAZN 1"tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"group-title="✅️DAZN",01 | DAZN 1
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/327213
 #EXTINF:-1 tvg-name="02 | DAZN 2"tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"group-title="✅️DAZN",02 | DAZN 2
@@ -3721,126 +3565,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/327214
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/329047
 #EXTINF:-1 tvg-name="08 | DAZN (ES) EUROSPORTS | 2"tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/664/528/png-transparent-dazn-hd-logo-thumbnail.png"group-title="✅️DAZN",08 | DAZN (ES) EUROSPORTS | 2
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/329051
-#EXTINF:-1 tvg-name="NL | NPO 1 HD"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/NPO_1.svg/revision/latest/scale-to-width-down/250?cb=20140819121513"group-title="HOLANDA",NL | NPO 1 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355796
-#EXTINF:-1 tvg-name="NL | RTL 4 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWf4DNH-KAyNHXmn3YJ6euDt99ESOWSL0y3hHexYCVLcdM5DClDcuzWcBLpszK9F9mVGZENh0K-gchtJiJX1RmSRQ1ITH57Vd-Ea5JGbzQJDmi-KmIiRSrPKtnmuqjsbWO.png"group-title="HOLANDA",NL | RTL 4 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355797
-#EXTINF:-1 tvg-name="NL | RTL 7 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWZLYr9VqUXc8MggsYaaiVCXJMjCYrBoIMtgNGjON3tB6ywIKtDzoGPkXyUZjOzB0zNEyEYx6eltzdb_djPs2bXqvr-kovQe6XBeLODpmqWBM.png"group-title="HOLANDA",NL | RTL 7 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355798
-#EXTINF:-1 tvg-name="NL | SBS 6 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZW_9sR-lznwKeBig5UppZqleNHqnWvnrZHsBO-XSbzlWrvuyjeDywH290eIgxDblB_PLlgeE7tqexDEPX2BkiC8NSj4hzFeORnOdt8CN6aUyE.png"group-title="HOLANDA",NL | SBS 6 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355799
-#EXTINF:-1 tvg-name="NL | SBS 9 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMchTKVdo3JsC4cyZrOH7FogH4xSuO8eEsOFxQkaGV25XCfmTm1oh0OmT-_IDPDx1YgAdCzsT-zTFTwMrtJ8Ri8qDFqk8oSIV1EMooKI1VcwanBZpMpxB4d1cg3QAQ9N6O8Q8WBVX77fkgdoovn_9PfXL.png"group-title="HOLANDA",NL | SBS 9 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355800
-#EXTINF:-1 tvg-name="NL | SBS 9 HD L2"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMchTKVdo3JsC4cyZrOH7FogH4xSuO8eEsOFxQkaGV25XCfmTm1oh0OmT-_IDPDx1YgAdCzsT-zTFTwMrtJ8Ri8qDFqk8oSIV1EMooKI1VcwanBZpMpxB4d1cg3QAQ9N6O8Q8WBVX77fkgdoovn_9PfXL.png"group-title="HOLANDA",NL | SBS 9 HD L2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355801
-#EXTINF:-1 tvg-name="NL | VERONICA DISNEY HD L2"tvg-id=""tvg-logo="http://carmeltv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj2qjXR5DSDyYh3mdhgRYtGbji6XC6XzNAIYPJVlZ38UDty-kO5Sm89U_vT20UFseYmALgjCzHFjQ6yxpwBS30mg.png"group-title="HOLANDA",NL | VERONICA DISNEY HD L2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355802
-#EXTINF:-1 tvg-name="NL | NET 5 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWchzobJxrz794nLsgId6RgSrzdHo3QZy4BUmcp1ySpmT44ZcvmIN8_FmH-Rnl9wggOXbTEN8axi-D8GGiXBHJpjbmxp2qCGfDCDjEpW5lfa6-i2zyCur-c3891wsodNaR.png"group-title="HOLANDA",NL | NET 5 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355803
-#EXTINF:-1 tvg-name="NL | TLC HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWF1d6uvkm9eNBSEln--3Yjf4cjf_xdcnj0P3affkHn2_S3MF2S4H-azfjPnKce2HNd7MyeXrGjp9xlMgO_h5xtalCEccqEC4GICjKkATm1NpKjkjVztCRr8LLnAqRQkkV.png"group-title="HOLANDA",NL | TLC HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355804
-#EXTINF:-1 tvg-name="NL | FILM 1 ACTION HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWHPLi84AFTFNs5dqu6sI_Mu9SK2rIXuhARHNyQQYE0yibTwQfqEjR_-AeRdF0milinYO9itvr7LzUJmUtNSRgQWVCe8uftjg7mMS1TO9IUQUCI-zM-MGcFyTQelUObZAL.png"group-title="HOLANDA",NL | FILM 1 ACTION HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355805
-#EXTINF:-1 tvg-name="NL | FILM 1 DRAMA HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWwyN8hJXpMMT1z9WwI1f2KITy174faNKZNDwwNHdx-qsiFS_8e52k8G-IW-uAl8MGL5xA6Oz-02RhtEhcTTPD9n-pHr48XoRVBraBg71sW3yQzekZ36r1LMaIqTnENe4j.png"group-title="HOLANDA",NL | FILM 1 DRAMA HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355806
-#EXTINF:-1 tvg-name="NL | FILM 1 DRAMA HD L2"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWwyN8hJXpMMT1z9WwI1f2KITy174faNKZNDwwNHdx-qsiFS_8e52k8G-IW-uAl8MGL5xA6Oz-02RhtEhcTTPD9n-pHr48XoRVBraBg71sW3yQzekZ36r1LMaIqTnENe4j.png"group-title="HOLANDA",NL | FILM 1 DRAMA HD L2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355807
-#EXTINF:-1 tvg-name="NL | FILM 1 PREMIERE HD L2"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWl8gSQWheXk9EHTMoEEW_-3QVKfeVK_QGStJCM3VSyjkUiDlTKSaytInhNgwAB3Ocbwda2zt6q9zA3hLk_kNdKYqtzw8VLbokl4rPeTgG7b40NIBA5QiUguEaLl3zPQIT.png"group-title="HOLANDA",NL | FILM 1 PREMIERE HD L2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355808
-#EXTINF:-1 tvg-name="NL | ANIMAL PLANET HD"tvg-id=""tvg-logo="http://carmeltv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjJnQ645k1a-MtwW7NteOi8CkHyruzCLLmAQIgPCvBAwvpl_JtfegHmmBJX6mHt3E59LwS4Ay-0z3D4RLHsFCcWwFBiP6v03JGT19IFHndr_U.png"group-title="HOLANDA",NL | ANIMAL PLANET HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355809
-#EXTINF:-1 tvg-name="NL | DISCOVERY ID HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIHXfcjzskWYIgk3scGeWxl-qt_IMv-Nfy2BDAoh1kaYwIyvarzZJcuj3upN8Q51BfDLqwvs5X-3LXDnVycOGeGihzMjl6A1r7kmc8W80QQoO.png"group-title="HOLANDA",NL | DISCOVERY ID HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355810
-#EXTINF:-1 tvg-name="NL | DISCOVERY CHANNEL HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWyyWhEvIKVkWzU5SaUW4mM2Aeer_ZLs75DCgW6XHUqB1lJiGK1ttye_qQHLA8kGl1TAMg6KYufwnB0pXMHTl2M2sFTdNjaiHbCP1OsIqkFcSXkxedNHvnyGmNxMlyirDn.png"group-title="HOLANDA",NL | DISCOVERY CHANNEL HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355811
-#EXTINF:-1 tvg-name="NL | HISTORY HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWRHdEdJ5_8Qm61VJFXzSYDPOKX-aMXHEgCNBIaoTX4EL3RbrvCnlcK8u1IvWLigy0keAm3HUGvyClZHLOyyhlwr-FU08Jpli2CDmnSX322HP0VJp_CpzIPCPErhNd2BdH.png"group-title="HOLANDA",NL | HISTORY HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355812
-#EXTINF:-1 tvg-name="NL | 24 KITCHEN HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWbTlD4P8UHSW89mlT8KRxp3_eHPbjsHsUPwVKX05chEhueOos8GAx8aqu2_ZdSqAQxLaAjI7PysH6X7UBgm7Twg5n1InTyH39o5rmI8UKKw0.png"group-title="HOLANDA",NL | 24 KITCHEN HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355813
-#EXTINF:-1 tvg-name="NL | BBC FIRST HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMchTKVdo3JsC4cyZrOH7FogH4xSuO8eEsOFxQkaGV25XCToiPuVYtdvBB1FeVemG8IXuo8usn26xd3Ig82C_MCkCkzA8KeG0PRyvic6B_4JODxVVU9JlstMHFhjTJl82Y0J9gBQbzXPllkwq7hke6uSe.png"group-title="HOLANDA",NL | BBC FIRST HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355814
-#EXTINF:-1 tvg-name="NL | Fox HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxINGRZuBGHr--hfB3E6BfxEJQnyO2SaRDWT0rfsdIJexkEAbFR-WHi8FXZGbQEX94OtHnXB8DxaktVCo0gmoBNL-JOGTINnGGcBGBY_m6DirS.png"group-title="HOLANDA",NL | Fox HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355815
-#EXTINF:-1 tvg-name="NL | Spike HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIMlMNcaoAE1hoN9mLTaj2REH-ALr-BqL2cM9scOUh6LqQgX3Zri_ofG7YVzqB0H07e0so0UacjgmZ8PupfKCMQdbMs0uKEiTl-QL_NhWbtIH.png"group-title="HOLANDA",NL | Spike HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355816
-#EXTINF:-1 tvg-name="NL | MTV NEDERLAND HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWsXlY3q8QGPP66nqG5Zivqbmq0E482_bfBllUMUk__8MnIeju1PR13iNjFVLE77nbLTVZctC7iYsXW7HloBoQx1iSBTVSC_t5RLtD1jmF40A.png"group-title="HOLANDA",NL | MTV NEDERLAND HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355817
-#EXTINF:-1 tvg-name="NL | Film1 Drama Full-HD+"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIH-deOCUeGhAL2qxq4RzfHgUN0CQRCHv1ON2TVh2v0tigGtfU-7I6036hhG00STMr1-VSdj5_JCtymGPpoEgoIs326KcerzOdTsL9coErzIA.png"group-title="HOLANDA",NL | Film1 Drama Full-HD+
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355818
-#EXTINF:-1 tvg-name="NL | Ziggo Sport Select HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIKv4pjTtdA8IEy7ObD274_tiGulDEq8RMXuaJztl3F9bwjXNLesYMdMWE5bUEMOIFpYrYwIe5SQm6CyxMibndfPAfcw7BBihe2D7_JbKKZT4.png"group-title="HOLANDA",NL | Ziggo Sport Select HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355819
-#EXTINF:-1 tvg-name="NL | Ziggo Sport Voetbal HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIIV8W8f28zoG9cKuME43Q9BGpceFzPG-gluBdjkO7KPfAyOfUjQv7No7QpjhS7WuI7WL4YcFSgeERlflCdzkueFqsUVVKKVAsA2reYemBOHz.jpg"group-title="HOLANDA",NL | Ziggo Sport Voetbal HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355820
-#EXTINF:-1 tvg-name="NL | Ziggo Sport Racing HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIBsq0QA-iz3slh67miHiImeu_ZdMMl5Fnbz6j5fnmwUKTsgQg3Flcpv1eyelLs-WZJrjgTGuOEzcp5slQT-10BkT0xC5FWx-b7hcDhC8oaY3.png"group-title="HOLANDA",NL | Ziggo Sport Racing HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355821
-#EXTINF:-1 tvg-name="NL | Ziggo Sport Extra 1 Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIItFAtzuO60BzhQRZHRmfT4qZyjdsn2PlOzpMbOGGSKzJomWRMtLIzkLvZIZrNPb86FOjrJ6jjhtfgPJyDLoWKvQmtepC9HTVAAUv84Xi9-t.png"group-title="HOLANDA",NL | Ziggo Sport Extra 1 Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355822
-#EXTINF:-1 tvg-name="NL | Ziggo Sport Extra 2"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIJVCxXR8-rChJSim5uYnDr8otyefK4dH4pSSbZtuxtBIWbtrgN-GBjYIhkhnzGUn-Cq_3QsXxyshkRfNnDvrSocnMfpvC_nh7EWEA2hAWSue.jpg"group-title="HOLANDA",NL | Ziggo Sport Extra 2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355823
-#EXTINF:-1 tvg-name="NL | Fox Sports 4 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIFlct7ZZweZ4IV0X2DbTAEa0-Olfw0s8ryJVE2do89p94BZZXAvFsZFOWo4Jz0qlfDTCx9cUG9ZmBzoVpdXzaeiwba-QikfiqmmYJomhP2Wl.png"group-title="HOLANDA",NL | Fox Sports 4 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355824
-#EXTINF:-1 tvg-name="NL | Fox Sports 4 Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIGjMRcTOXwm37DFwx4gQ4Pgr5x1YnBWBvxw0afNZz111auwR1DNJhX5xvweJhmgXrR4_1ioTwz00rJ6oQrIDN47cpubfQqzR8DTgVgOM1k6G.png"group-title="HOLANDA",NL | Fox Sports 4 Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355825
-#EXTINF:-1 tvg-name="NL | Fox Sports 5 Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxINtXkEwOjCOubw5Hw76rinNaYJe28P5VBuKKreqDnHsvTe_Ik8jFzisKdPeNvt_CqDbqa-GbszE4rTB4SWMBO7Hwqbb9HRfzehHnVKH0o6-O.png"group-title="HOLANDA",NL | Fox Sports 5 Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355826
-#EXTINF:-1 tvg-name="NL | Fox Sports 6 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIByevnVhMBucZeyXvyENktyL9YKKwbe12_4BiGrA6_aOXUH1Mm48adbqmhNMkGrI6h6Aj0bUi0WR7SRCICQLc1ZmYQv0Kqt4L6BX7A-1jXUz.jpg"group-title="HOLANDA",NL | Fox Sports 6 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355827
-#EXTINF:-1 tvg-name="NL | Eurosport 1"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIElcpClrfhuFZKYPpD8Xzf9Jq4hIW06N6QRMmKVcZ3Fg9Gi6udkYcWYaatMAK3W0K-1xxPFqbcAIshe2oO8r9w1ij6pey9oZ292rPpOZxpZV.png"group-title="HOLANDA",NL | Eurosport 1
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355828
-#EXTINF:-1 tvg-name="NL | Eurosport 1 Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIElcpClrfhuFZKYPpD8Xzf9Jq4hIW06N6QRMmKVcZ3Fg9Gi6udkYcWYaatMAK3W0K-1xxPFqbcAIshe2oO8r9w1ij6pey9oZ292rPpOZxpZV.png"group-title="HOLANDA",NL | Eurosport 1 Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355829
-#EXTINF:-1 tvg-name="NL | Eurosport 2"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxICBnLTM9ivOoAug3m5P8zG-yulDyJdXeMBZ_a7svPGbF7mKVzynkJeh-0gLE9f7kQGFEONDgE10aMk36imSJ2Ts-yYPr8xWjkf6uBWvbtNWD.png"group-title="HOLANDA",NL | Eurosport 2
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355830
-#EXTINF:-1 tvg-name="NL | Espn 2 HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIERSHh-IrzB6oO6Y2K4VxdDi-hYhQDbBoc6owbMIfgwrPSfVC-CgcL5rlet3YOYlgXRxPJQ0hLONrlgWAmg45--A8Xa8BgnEPSlnre5i5pYk.png"group-title="HOLANDA",NL | Espn 2 HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355831
-#EXTINF:-1 tvg-name="NL | Espn 3 FHD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxILzXP6wb7IOEq-g0NnmaT9epVZYlMGNJZ0mqvfHnAXQ7JT4Jn28gpnatrcAoKqwLaVHcZpePOJ7ZQ72T-Q0NDlK_qTbS48mj47VqwZloYZr8.png"group-title="HOLANDA",NL | Espn 3 FHD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355832
-#EXTINF:-1 tvg-name="NL | Cartoon Network Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIJ9tm2ZT9H4rWFTwLIhDMT01v7PB6bXYxGJ3VTiWWgupFPRwtKo8jJH21mWtzpA01rrHr-MowRtNZG8tv9WB7vGsU0JjEOF7XMYdGaVgV2vN.png"group-title="HOLANDA",NL | Cartoon Network Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355833
-#EXTINF:-1 tvg-name="NL | Boomerang"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxILtlxDGX1hAbbZNj7E6HwDy6WAPWT1NbMFflUoDNeV7t5kY_Ca43xrt7PlNaNwQzhXDIORRGGbQa9RIXh3JRKPvA3qQZRhQEyHXfNgRl68iy.png"group-title="HOLANDA",NL | Boomerang
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355834
-#EXTINF:-1 tvg-name="NL | Nicktoons"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIFl8wYrm44T5qMpojL84BG4fMJT7I9XVSGgNXD1LHiC0ysn7yvvr3pzCg77e-HUz0yKRGffWHnHXUqEg351pCxUU-IxSAB2_2eS3ZwkbTmqb.png"group-title="HOLANDA",NL | Nicktoons
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355835
-#EXTINF:-1 tvg-name="NL | Nick Toons Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIG4qh-xuo5wn63kAJ7_2jl_rWxI-GwwM28JeAEU8ZmnGdglOxJv_JQIXapVSae08-1x-xUub4XcQ0uwhra7QzSLNh55q5w-dZLgk7GYXljQh.png"group-title="HOLANDA",NL | Nick Toons Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355836
-#EXTINF:-1 tvg-name="NL | Nick Jr."tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIOWD1PUbqOEfiSIBCxPc6wRs-GZTYkjJ2SAZu5RXLw1FPz3CgQmyKVB5-mD4BwEltYokmKOtM0naqeAsc02UNempZUSY_RMXfFUmLu-7ToZN.png"group-title="HOLANDA",NL | Nick Jr.
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355837
-#EXTINF:-1 tvg-name="NL | Nick Junior Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIE8Fjg5e3ooGT8xyU5fLVjLIicDyX3Nl0C9taVGr-v58wauN-ZnkAIrst7wiQvnn7spagJNNbY1e5ffyv0vefKCh6vOWGm_mGOPg4QY_pMQH.png"group-title="HOLANDA",NL | Nick Junior Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355838
-#EXTINF:-1 tvg-name="NL | Nickelodeon"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIMeUVdaj5VD1yyQFz5NaceZvgnId5S5yoGrdDDmo7KQz_vKO32R8-H0uzRd7LYS3-6ntf_FYRRnq3FDAvaHo27qoXvHx99YEmCf3cMIZ46MJ.jpg"group-title="HOLANDA",NL | Nickelodeon
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355839
-#EXTINF:-1 tvg-name="NL | Nickelodeon Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIET4Vl93UJTle-WgWurhG2MFfHK5mbPSYcs1-Yz8NHtapNVO3bwGttULYkZaHDSfbXoZWjg-Zq4DHs8SaGWtuIlt4tRmlaer4ngSgFgJoJgZ.png"group-title="HOLANDA",NL | Nickelodeon Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355840
-#EXTINF:-1 tvg-name="NL | Baby TV"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIIfgxrAFv2CClhhfL8J3NQqS14Sn5RxsBZF1awKMXn3FxF8-LYSOgTqhxx3aUE80zt8OnWxDfrA9-7uSTQ0PNJkoNdjM4add_Hu13smvI5SX.jpg"group-title="HOLANDA",NL | Baby TV
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355841
-#EXTINF:-1 tvg-name="NL | MTV Hits Nl"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIKNehNdoYOOlRgSU8ZWiHVuzfXHAuUQi51bkYGrhHg06MJxzMFRcaaBVNU3wwkPTWo6_gK1vRA3yGjoRvXyfLivizmBsIPW_MehGZi-FXCye.jpg"group-title="HOLANDA",NL | MTV Hits Nl
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355842
-#EXTINF:-1 tvg-name="NL | MTV Music24 Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIMU8C6u0m0oXTi53VxpFhQmoFjN8FUouaCmwlVZn4O5C2HwbhloQXgD-DKq0sUNNw0WGQCGhYsLvpmyRWgtuC0IYcVzmfZmnmOozBtfM2PUz.png"group-title="HOLANDA",NL | MTV Music24 Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355843
-#EXTINF:-1 tvg-name="NL | Mezzo"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIITzpR7Ze-ZE-J7j4x880X0M1AV7SzV2tsV4URFVgFMMUx6l4GjU_tgMJsH20eR1oHQlq1BBiWB6FC-DN5Cb8WbjwSaoPJ8UO3UZXE_L5nja.png"group-title="HOLANDA",NL | Mezzo
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355844
-#EXTINF:-1 tvg-name="NL | E! Entertainment HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIIadubRnnGrczsV-5dd8lO2Z0WLuisiFipmI2vfj8es2pSj-12tPslFncYMsM07rFZ3SxQUOgh_sgQ6srgddR2NAjKehfY7nej_6ooDHtG0l.png"group-title="HOLANDA",NL | E! Entertainment HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355845
-#EXTINF:-1 tvg-name="NL | Npo Politiek"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIEzr7QZo4XT8E4ckYoZf-N0mhsfGC6T7OCy9r4nTfGpbApTsoDWHMJZyeEy-KS5_dWa6_HitCuLGPWJANlHTP9bxweYy5t3_7JWGjiAcFL1I.jpg"group-title="HOLANDA",NL | Npo Politiek
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355846
-#EXTINF:-1 tvg-name="NL | RTV-7"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIN-hvjB2B4NGnm611tECgfknfMXGG5t9SENUmCufpyHqzDVeJeLa-OhAEEhRvJ8J_gxeNJhLzow3uiPF-AKiwA3z1eKUR2gPTIIvvfGF7_DD.png"group-title="HOLANDA",NL | RTV-7
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355847
-#EXTINF:-1 tvg-name="NL | Bvn"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIAoVrlPEcb8apUyNiGByiXuO1prd74g2wItDQbrNmm8WfBw9WxqDQaNoHD3_jrbyCzwMxTiKagYuV3jBfEZJdbTD1vJ8Iw9AUI0_-4rp0qz3.png"group-title="HOLANDA",NL | Bvn
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355848
-#EXTINF:-1 tvg-name="NL | TV Oost"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIHfxi5vyk75uZjmJ5tqvarcq3Z4aVJZ_65hzVt7zo1L-eUQFYN253iXS5dXXZ3xhSr0dYw71aAAH5hBEc0XoISVHRLXIGWJ0b3DpLZr-Ny9S.jpg"group-title="HOLANDA",NL | TV Oost
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355849
-#EXTINF:-1 tvg-name="NL | Discovery Channel Full-HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIFk4gue8Wul3loepVPx9ikXFn_sBtjPXK1FFRQ1ODp2Q_ODvWo-DiyxYt_HGlzEmMYlajvzZ2EzGFUbkcnkhL8dKXEJW7c7HNbtz-QXrRUqH.png"group-title="HOLANDA",NL | Discovery Channel Full-HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355850
-#EXTINF:-1 tvg-name="NL | Discovery World FHD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIILMWQzY1IR466nPcbc-1DWpt0PKvwT531GOcD1DZKTCORKBCLLoQnlXpt2nU-6Vs-sU5bhIKMHkzSnqIccLIhd1p1eiH7L9qhPCC86Gi-XH.png"group-title="HOLANDA",NL | Discovery World FHD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355851
-#EXTINF:-1 tvg-name="NL: Film1 Drama HD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIF3-pLig_dHMqvwYlimupuzBercSQC8oL5bOWWo2ofTG4MJHqT35lMQ-tDWXyZcKcjOzH8uQJ9wKb0jvFljcASPYExuEVXGPR8I4T-b1CtVz.jpg"group-title="HOLANDA",NL: Film1 Drama HD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355852
-#EXTINF:-1 tvg-name="NL: Film1 Drama 4k+"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxIH-deOCUeGhAL2qxq4RzfHgUN0CQRCHv1ON2TVh2v0tigGtfU-7I6036hhG00STMr1-VSdj5_JCtymGPpoEgoIs326KcerzOdTsL9coErzIA.png"group-title="HOLANDA",NL: Film1 Drama 4k+
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355853
-#EXTINF:-1 tvg-name="NL: Film 1 Action"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxICmNl9BWFZgOV_mWGX7RFa01CgfgT6t-tpvaFK2WU6Yqj8hGQM8m8NJs0EaXswhCWg7U1DCksVMZRABmjqYi-YfD7q0YXowr6j8TqlhkeAwW.jpg"group-title="HOLANDA",NL: Film 1 Action
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355854
-#EXTINF:-1 tvg-name="NL: Film1 Action FHD"tvg-id=""tvg-logo="http://teamzz.net:8080/images/RGAdBf7tZrpM7cG0XnyBbqljSWmSUZ6mx9bKgmtlMcg2g6HA4tN243vMvMHIl_87okE4j35GIjV1b-mdXfGxINMeHtJTjdqphhVCTDCGrEMyjptFEGpZoXOAsXqX30nALEijZAWUIIRCVxTDlz07lZMvPgGtlNIZ9rsTh_tBfjXfXgWi1frp9vYc0xq-Slzf.png"group-title="HOLANDA",NL: Film1 Action FHD
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/355855
 #EXTINF:-1 tvg-name="01 | ESPN (ARG)"tvg-id="21.Junior.al"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png"group-title="ESPN ARG",01 | ESPN (ARG)
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/341620
 #EXTINF:-1 tvg-name="02 | ESPN 2 (ARG)"tvg-id="ESPN.2.Latin.Central.América.(ESPN2L).do"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png"group-title="ESPN ARG",02 | ESPN 2 (ARG)
@@ -4249,82 +3973,10 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/511000
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/512713
 #EXTINF:-1 tvg-name="US | UNIVSN LOS ANGELES"tvg-id="Univision.-.Pacific.Feed.us"tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/2017/04/univision_logo.png"group-title=" ✅️UNIVISION",US | UNIVSN LOS ANGELES
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/512714
-#EXTINF:-1 tvg-name="DE: SKY SPORT 1 [Live During Events Only]"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vGfONowvwRfeDu3EuOY-YaE.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 1 [Live During Events Only]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516717
-#EXTINF:-1 tvg-name="DE: SKY SPORT 10 [Live During Events Only]"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vEFu0YuDnZ6AQ-amSTRQAXk.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 10 [Live During Events Only]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516718
-#EXTINF:-1 tvg-name="DE: SKY SPORT 11 [Live During Events Only]"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vA5FS2qYarqJwoHkTNOUzAA.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 11 [Live During Events Only]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516719
-#EXTINF:-1 tvg-name="DE: SKY SPORT 2 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vLSAouCq79BN2-1Kc0XCxj8.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 2 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516720
-#EXTINF:-1 tvg-name="DE: SKY SPORT 3 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vDcs-zOGx4Cd8YTFWpErzDI.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 3 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516721
-#EXTINF:-1 tvg-name="DE: SKY SPORT 4 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKRm3EYV12uX8cRZyZ_KlVWYwpcFL8hQxlawDZeX82fGw.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 4 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516722
-#EXTINF:-1 tvg-name="DE: SKY SPORT 5 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vHaZhZxqe5O7X0VoRmehO7w.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 5 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516723
-#EXTINF:-1 tvg-name="DE: SKY SPORT 6 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vOqgFvRouBLTLhk2Sb4cs8U.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 6 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516724
-#EXTINF:-1 tvg-name="DE: SKY SPORT 7 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIcWewRz09pCCNYTRibxzDr1iOr5nQZnSO1RGsyfDLe2A.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 7 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516725
-#EXTINF:-1 tvg-name="DE: SKY SPORT 8 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIMstINKv0csEt4t5i2_f92lFgoT2Otvi1v2N8y7T75Gg.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 8 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516726
-#EXTINF:-1 tvg-name="DE: SKY SPORT 9 (MATCH TIME)"tvg-id=""tvg-logo=""group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT 9 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516727
-#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 1 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vHiNYQe_Wt9iEfQVy1MnOoR39apraNPp07wnGf3C-HOj.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT AUSTRIA 1 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516728
-#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 2 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yozIFZ0cQXSS1q2BFdbtPGlsqL-bEZ2FcxmLTY7Nt8FGQ.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT AUSTRIA 2 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516729
-#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 3 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypt_VaipCj3V1i7a2prfNlncItlqhy2HxJ8D2TAVzCatQ.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT AUSTRIA 3 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516730
-#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 4 [Live During Events Only]"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsQtYbC2AFC_MS_9eNL2VytNoxYs9NvJP0H-Ivf4DZsVQ.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT AUSTRIA 4 [Live During Events Only]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516731
-#EXTINF:-1 tvg-name="DE: SKY SPORT AUSTRIA 5 (MATCH TIME)"tvg-id=""tvg-logo=""group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT AUSTRIA 5 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516732
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 1 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vBnsNeuE81YjmeN7xzCjejEzGZqjvZ41Lm-jorjV4bEk.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 1 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516733
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 10 (MATCH TIME)"tvg-id=""tvg-logo=""group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 10 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516734
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 2 [Live During Events Only]"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwI0FcbVtCcxqxsxfapwADLsh5U_lx34HUmtyIUVQA5XxA.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 2 [Live During Events Only]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516735
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 3 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwI-lqKTDg-TBBDopULYqTvScDCnpWOp4Qdy2-ALrLLjGQ.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 3 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516736
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 4 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIHIEMYPV7JtQqUZLZnjKijaxT3jpn7Z8PHssgFzLErrg.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 4 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516737
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 5 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLWCvTaRxH83Defr3AyKr0ldDJO2vlh4oPuCaq_ZiMfDA.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 5 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516738
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 6 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vBnsNeuE81YjmeN7xzCjejHMr_RckITTeSoFO1YgMbLJ.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 6 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516739
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 7 (MATCH TIME)"tvg-id=""tvg-logo=""group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 7 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516740
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 8 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vBnsNeuE81YjmeN7xzCjejFqYNkyJhE1wv_sL7kX4X9A.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 8 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516741
-#EXTINF:-1 tvg-name="DE: SKY SPORT BUNDESLIGA 9 (MATCH TIME)"tvg-id=""tvg-logo="http://dashtv.me:8080/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8HsLjWJMFSGNx7Bmg6w05vBnsNeuE81YjmeN7xzCjejHZIvCNsgh8Jw64FuB2vdeO.png"group-title="✅️ BUNDESLIGA ALEMENA",DE: SKY SPORT BUNDESLIGA 9 (MATCH TIME)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516742
-#EXTINF:-1 tvg-name="PT | RTP 1"tvg-id=""tvg-logo=""group-title="✅️PORTUGAL",PT | RTP 1
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516904
-#EXTINF:-1 tvg-name="PT | RTP 3"tvg-id=""tvg-logo=""group-title="✅️PORTUGAL",PT | RTP 3
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/516906
-#EXTINF:-1 tvg-name="EU | SKY SPORT PREMIER LEAGUE"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | SKY SPORT PREMIER LEAGUE
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/517390
-#EXTINF:-1 tvg-name="EU | SKY SPORTS PREMIER LEAGUE"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | SKY SPORTS PREMIER LEAGUE
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/517391
-#EXTINF:-1 tvg-name="EU | Inglaterra - Premier League (Op.1)"tvg-id=""tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png"group-title="✅️ PREMIER LEAGUE (UK)",EU | Inglaterra - Premier League (Op.1)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/305839
-#EXTINF:-1 tvg-name="EU | Inglaterra - Premier League (Op.2)"tvg-id=""tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png"group-title="✅️ PREMIER LEAGUE (UK)",EU | Inglaterra - Premier League (Op.2)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/305840
-#EXTINF:-1 tvg-name="EU | SKY SPORTS FOOTBALL"tvg-id=""tvg-logo=""group-title="✅️ PREMIER LEAGUE (UK)",EU | SKY SPORTS FOOTBALL
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/517392
-#EXTINF:-1 tvg-name="EU | Inglaterra - Premier League (Op.3)"tvg-id=""tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png"group-title="✅️ PREMIER LEAGUE (UK)",EU | Inglaterra - Premier League (Op.3)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/308143
 #EXTINF:-1 tvg-name="EC | CATOMEDIA"tvg-id=""tvg-logo="https://image.roku.com/developer_channels/prod/9765940f01bb739eaac185e810a6106cd043233c23c11c792e2afa6862433dcf.png"group-title="✅️ECUADOR",EC | CATOMEDIA
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/518287
 #EXTINF:-1 tvg-name="EC | Usounds "tvg-id=""tvg-logo="https://image.roku.com/developer_channels/prod/9765940f01bb739eaac185e810a6106cd043233c23c11c792e2afa6862433dcf.png"group-title="✅️ECUADOR",EC | Usounds
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/518288
-#EXTINF:-1 tvg-name="NOV | NOVELAS TURCAS"tvg-id=""tvg-logo=""group-title="TV NOVELAS",NOV | NOVELAS TURCAS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/520011
-#EXTINF:-1 tvg-name="MX | ITV Deportes MX"tvg-id=""tvg-logo=""group-title="✅️LIGA MX",MX | ITV Deportes MX
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/526805
 #EXTINF:-1 tvg-name="RECORDTV HD"tvg-id=""tvg-logo="http://ggrrth.htvsat.info:8880/images/7a25fa0eb158ef4684e67222597beb97.png"group-title=" ✅️BRASIL HD",RECORDTV HD
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/526856
 #EXTINF:-1 tvg-name="Animal Planet HD"tvg-id=""tvg-logo="http://ggrrth.htvsat.info:8880/images/ca03558ddf31e54c4aba5eb9b57bb8e9.png"group-title=" ✅️BRASIL HD",Animal Planet HD
@@ -4575,66 +4227,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/527226
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/527227
 #EXTINF:-1 tvg-name="PN | TIGO SPORTS ³ ᴴᴰ"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png"group-title="✅️PANAMA",PN | TIGO SPORTS ³ ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/527228
-#EXTINF:-1 tvg-name="AFV Family (720p)"tvg-id=""tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/5e618d18-1f27-43f8-a2e9-7336d8aeb8e5-afv-family-1622017638-width200-quality90.png"group-title="BELGICA",AFV Family (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528336
-#EXTINF:-1 tvg-name="AXN (1080p)"tvg-id="AXN.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_(2015).svg/320px-AXN_logo_(2015).svg.png"group-title="BELGICA",AXN (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528338
-#EXTINF:-1 tvg-name="AXN Black (576p)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_(2015).svg/320px-AXN_Black_logo_(2015).svg.png"group-title="BELGICA",AXN Black (576p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528339
-#EXTINF:-1 tvg-name="AXN White (576p)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_(2015).svg/320px-AXN_White_logo_(2015).svg.png"group-title="BELGICA",AXN White (576p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528340
-#EXTINF:-1 tvg-name="Belgian Federal Parliament (720p) [Not 24/7]"tvg-id=""tvg-logo="https://i.ibb.co/q1t54P6/422px-Emblem-of-the-Belgian-Chamber-of-Representatives-svg.png"group-title="BELGICA",Belgian Federal Parliament (720p) [Not 24/7]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528341
-#EXTINF:-1 tvg-name="Bigtime (720p)"tvg-id=""tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg"group-title="BELGICA",Bigtime (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528342
-#EXTINF:-1 tvg-name="Car City Adventures (720p)"tvg-id=""tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg"group-title="BELGICA",Car City Adventures (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528345
-#EXTINF:-1 tvg-name="Cinemax 2 (1080p)"tvg-id="Cinemax2.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png"group-title="BELGICA",Cinemax 2 (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528346
-#EXTINF:-1 tvg-name="Cinemax (1080p)"tvg-id="Cinemax.pl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/320px-Cinemax_2016.svg.png"group-title="BELGICA",Cinemax (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528347
-#EXTINF:-1 tvg-name="CNBC Europe/World (1080p) [Geo-blocked]"tvg-id=""tvg-logo="https://i.imgur.com/B6sfpDa.png"group-title="BELGICA",CNBC Europe/World (1080p) [Geo-blocked]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528349
-#EXTINF:-1 tvg-name="DAZN Combat (1080p)"tvg-id=""tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0b232373-fb80-4704-976f-ecefeaa377b6-width200-quality90.png"group-title="BELGICA",DAZN Combat (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528350
-#EXTINF:-1 tvg-name="DAZN Women's Football (1080p)"tvg-id=""tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1ccbd6b3-d27d-4f22-a4ae-3eabb4c9e062-width200-quality90.png"group-title="BELGICA",DAZN Women's Football (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528351
-#EXTINF:-1 tvg-name="ducktv (720p)"tvg-id=""tvg-logo="https://i.imgur.com/gRFQ35W.png"group-title="BELGICA",ducktv (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528352
-#EXTINF:-1 tvg-name="Fail Army (720p)"tvg-id=""tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b-width200-quality90.jpeg"group-title="BELGICA",Fail Army (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528353
-#EXTINF:-1 tvg-name="FIFA+ (720p)"tvg-id=""tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg"group-title="BELGICA",FIFA+ (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528354
-#EXTINF:-1 tvg-name="Grjngo (720p)"tvg-id=""tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg"group-title="BELGICA",Grjngo (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528356
-#EXTINF:-1 tvg-name="Hard Knocks Fighting Championship (720p)"tvg-id=""tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg"group-title="BELGICA",Hard Knocks Fighting Championship (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528357
-#EXTINF:-1 tvg-name="LCI (720p)"tvg-id="LCI.fr"tvg-logo="https://i.imgur.com/DED8EXs.png"group-title="BELGICA",LCI (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528359
-#EXTINF:-1 tvg-name="Moconomy (1080p)"tvg-id=""tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg"group-title="BELGICA",Moconomy (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528361
-#EXTINF:-1 tvg-name="Polsat News Polityka (1080p)"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"group-title="BELGICA",Polsat News Polityka (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528362
-#EXTINF:-1 tvg-name="Red Carpet TV International (1080p)"tvg-id=""tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg"group-title="BELGICA",Red Carpet TV International (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528364
-#EXTINF:-1 tvg-name="TV Limburg (1080p)"tvg-id=""tvg-logo="https://i.imgur.com/UMnXonD.png"group-title="BELGICA",TV Limburg (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528374
-#EXTINF:-1 tvg-name="TV Oost (1080p) [Not 24/7]"tvg-id=""tvg-logo="https://static.tvoost.be/tvoostbe/images/tvoost-logo.png"group-title="BELGICA",TV Oost (1080p) [Not 24/7]
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528376
-#EXTINF:-1 tvg-name="Viasat Explore Classic (720p)"tvg-id=""tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg"group-title="BELGICA",Viasat Explore Classic (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528380
-#EXTINF:-1 tvg-name="VRT Radio 1 (720p)"tvg-id=""tvg-logo="https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png"group-title="BELGICA",VRT Radio 1 (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528381
-#EXTINF:-1 tvg-name="VRT Radio 2 (720p)"tvg-id=""tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png"group-title="BELGICA",VRT Radio 2 (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528382
-#EXTINF:-1 tvg-name="VRT Radio Klara (720p)"tvg-id=""tvg-logo="https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png"group-title="BELGICA",VRT Radio Klara (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528383
-#EXTINF:-1 tvg-name="VRT Radio StuBru (720p)"tvg-id=""tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png"group-title="BELGICA",VRT Radio StuBru (720p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528384
-#EXTINF:-1 tvg-name="World Poker Tour (1080p)"tvg-id=""tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/da1d097d-5c12-4fda-ab2e-db4119c17087-width200-quality90.jpeg"group-title="BELGICA",World Poker Tour (1080p)
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528385
-#EXTINF:-1 tvg-name="РТР Планета Евро"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png"group-title="BELGICA",РТР Планета Евро
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528386
 #EXTINF:-1 tvg-name="Luz Naciente TV (720p)"tvg-id=""tvg-logo="https://i.imgur.com/GC2lubh.png"group-title="COSTA RICA",Luz Naciente TV (720p)
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528387
 #EXTINF:-1 tvg-name="Plous TV (1080p)"tvg-id=""tvg-logo="https://i.imgur.com/OSet4en.png"group-title="COSTA RICA",Plous TV (1080p)
@@ -4697,66 +4289,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528901
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528902
 #EXTINF:-1 tvg-name="ES | 101TV SEVILLA"tvg-id=""tvg-logo=""group-title="ESPANA",ES | 101TV SEVILLA
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/528903
-#EXTINF:-1 tvg-name="MLB NETWORK"tvg-id=""tvg-logo="https://i.postimg.cc/kXWC8JkH/MLB-NETWORK.png"group-title=" ✅️MLB PASS",MLB NETWORK
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481681
-#EXTINF:-1 tvg-name="MLB | ANGELS"tvg-id=""tvg-logo="https://i.postimg.cc/BnfyG27Y/ANGELS.png"group-title=" ✅️MLB PASS",MLB | ANGELS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481680
-#EXTINF:-1 tvg-name="MLB | ASTROS"tvg-id=""tvg-logo="https://i.postimg.cc/V6ZpyT2n/astros.png"group-title=" ✅️MLB PASS",MLB | ASTROS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481679
-#EXTINF:-1 tvg-name="MLB | ATHLETICS"tvg-id=""tvg-logo="https://i.postimg.cc/TYDSSt05/athetics.png"group-title=" ✅️MLB PASS",MLB | ATHLETICS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481678
-#EXTINF:-1 tvg-name="MLB | BLUE JAYS"tvg-id=""tvg-logo="https://i.postimg.cc/DfDHB9rK/blue-jays.png"group-title=" ✅️MLB PASS",MLB | BLUE JAYS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481677
-#EXTINF:-1 tvg-name="MLB | BRAVES"tvg-id=""tvg-logo="https://i.postimg.cc/nhKWVM6H/braves.png"group-title=" ✅️MLB PASS",MLB | BRAVES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481676
-#EXTINF:-1 tvg-name="MLB | BREWERS"tvg-id=""tvg-logo="https://i.postimg.cc/C5Ztw7Vt/brewers.png"group-title=" ✅️MLB PASS",MLB | BREWERS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481675
-#EXTINF:-1 tvg-name="MLB | CUBS"tvg-id=""tvg-logo="https://i.postimg.cc/XqTPq5jv/cubs.png"group-title=" ✅️MLB PASS",MLB | CUBS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481673
-#EXTINF:-1 tvg-name="MLB | D-BACKS"tvg-id=""tvg-logo="https://i.postimg.cc/G2tgjK92/dbacks.png"group-title=" ✅️MLB PASS",MLB | D-BACKS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481672
-#EXTINF:-1 tvg-name="MLB | DODGERS"tvg-id=""tvg-logo="https://i.postimg.cc/k4H1YSty/dodgers.png"group-title=" ✅️MLB PASS",MLB | DODGERS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481671
-#EXTINF:-1 tvg-name="MLB | GIANTS"tvg-id=""tvg-logo="https://i.postimg.cc/BZrsXLwD/giants.png"group-title=" ✅️MLB PASS",MLB | GIANTS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481670
-#EXTINF:-1 tvg-name="MLB | GUARDIANS"tvg-id=""tvg-logo="https://i.postimg.cc/23RHrfGb/guardians.png"group-title=" ✅️MLB PASS",MLB | GUARDIANS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481669
-#EXTINF:-1 tvg-name="MLB | MARINERS"tvg-id=""tvg-logo="https://i.postimg.cc/zfJcy8rT/mariners.png"group-title=" ✅️MLB PASS",MLB | MARINERS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481668
-#EXTINF:-1 tvg-name="MLB | MARLINS"tvg-id=""tvg-logo="https://i.postimg.cc/Rhfkcdbt/marlins.png"group-title=" ✅️MLB PASS",MLB | MARLINS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481667
-#EXTINF:-1 tvg-name="MLB | METS"tvg-id=""tvg-logo="https://i.postimg.cc/v8gbYLXb/mets.png"group-title=" ✅️MLB PASS",MLB | METS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481666
-#EXTINF:-1 tvg-name="MLB | NATIONALS"tvg-id=""tvg-logo="https://i.postimg.cc/G2Z08Vzr/Nationals.png"group-title=" ✅️MLB PASS",MLB | NATIONALS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481665
-#EXTINF:-1 tvg-name="MLB | ORIOLES"tvg-id=""tvg-logo="https://i.postimg.cc/dVvY9MFV/orioles.png"group-title=" ✅️MLB PASS",MLB | ORIOLES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481664
-#EXTINF:-1 tvg-name="MLB | PADRES"tvg-id=""tvg-logo="https://i.postimg.cc/vm2wMcV4/Padres.png"group-title=" ✅️MLB PASS",MLB | PADRES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481663
-#EXTINF:-1 tvg-name="MLB | PHILLIES"tvg-id=""tvg-logo="https://i.postimg.cc/L6FKHdn3/phillies.png"group-title=" ✅️MLB PASS",MLB | PHILLIES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481662
-#EXTINF:-1 tvg-name="MLB | PIRATES"tvg-id=""tvg-logo="https://i.postimg.cc/nhktRdVY/pirates.png"group-title=" ✅️MLB PASS",MLB | PIRATES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481661
-#EXTINF:-1 tvg-name="MLB | RANGERS"tvg-id=""tvg-logo="https://i.postimg.cc/rpw2vSK6/rangers.png"group-title=" ✅️MLB PASS",MLB | RANGERS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481660
-#EXTINF:-1 tvg-name="MLB | RAYS"tvg-id=""tvg-logo="https://i.postimg.cc/k4V35qQf/rays.png"group-title=" ✅️MLB PASS",MLB | RAYS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481659
-#EXTINF:-1 tvg-name="MLB | RED SOX"tvg-id=""tvg-logo="https://i.postimg.cc/v8VwF8Hm/red-sox.png"group-title=" ✅️MLB PASS",MLB | RED SOX
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481658
-#EXTINF:-1 tvg-name="MLB | REDS"tvg-id=""tvg-logo="https://i.postimg.cc/NjQ3H18y/reds.png"group-title=" ✅️MLB PASS",MLB | REDS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481657
-#EXTINF:-1 tvg-name="MLB | ROCKIES"tvg-id=""tvg-logo="https://i.postimg.cc/tCd0Jr6Q/rockies.png"group-title=" ✅️MLB PASS",MLB | ROCKIES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481656
-#EXTINF:-1 tvg-name="MLB | ROYALS"tvg-id=""tvg-logo="https://i.postimg.cc/k4RzmwCH/royals.png"group-title=" ✅️MLB PASS",MLB | ROYALS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481655
-#EXTINF:-1 tvg-name="MLB | TIGERS"tvg-id=""tvg-logo="https://i.postimg.cc/VvyTLMLk/tigers.png"group-title=" ✅️MLB PASS",MLB | TIGERS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481654
-#EXTINF:-1 tvg-name="MLB | TWINS"tvg-id=""tvg-logo="https://i.postimg.cc/HLxFSdhd/twins.png"group-title=" ✅️MLB PASS",MLB | TWINS
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481653
-#EXTINF:-1 tvg-name="MLB | WHITE SOX"tvg-id=""tvg-logo="https://i.postimg.cc/P5KBzPKS/White-sox.png"group-title=" ✅️MLB PASS",MLB | WHITE SOX
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481652
-#EXTINF:-1 tvg-name="MLB | YANKEES"tvg-id=""tvg-logo="https://i.postimg.cc/hG5666kx/Yankees.png"group-title=" ✅️MLB PASS",MLB | YANKEES
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/481651
 #EXTINF:-1 tvg-name="19:00 | Argentina vs Brasil (Op.1)"tvg-id=""tvg-logo="https://cdn-icons-png.flaticon.com/512/3909/3909430.png"group-title=" ✅️ELIMINATORIAS SUDAMERICANAS 2026",19:00 | Argentina vs Brasil (Op.1)
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/529496
 #EXTINF:-1 tvg-name="19:00 | Argentina vs Brasil (Op.2)"tvg-id=""tvg-logo="https://png.pngtree.com/png-clipart/20240302/original/pngtree-brazil-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14476633.png"group-title=" ✅️ELIMINATORIAS SUDAMERICANAS 2026",19:00 | Argentina vs Brasil (Op.2)
@@ -4773,8 +4305,6 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/529506
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/529508
 #EXTINF:-1 tvg-name="19:00 | Venezuela vs Peru (Op.2)"tvg-id=""tvg-logo="https://static.vecteezy.com/system/resources/previews/022/110/259/original/venezuela-flag-round-shape-png.png"group-title=" ✅️ELIMINATORIAS SUDAMERICANAS 2026",19:00 | Venezuela vs Peru (Op.2)
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/529510
-#EXTINF:-1 tvg-name="01 | SERIE B ECUADOR"tvg-id=""tvg-logo=""group-title="✅️EVENTOS EXCLUSIVOS HOY",01 | SERIE B ECUADOR
-http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/529512
 #EXTINF:-1 tvg-name="01 | HBO ᴴᴰ"tvg-id="Canal.HBO.(Argentina).ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png"group-title="PACK HBO PREMIUM",01 | HBO ᴴᴰ
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/267291
 #EXTINF:-1 tvg-name="02 | HBO FAMILY ᴴᴰ"tvg-id="I3.12421.zap2it.com"tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png"group-title="PACK HBO PREMIUM",02 | HBO FAMILY ᴴᴰ
@@ -5013,139 +4543,139 @@ http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/270382
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/270381
 #EXTINF:-1 tvg-name="ESPN DEPORTES (Op.1)"tvg-id=""tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png"group-title="✅️PACK ESPN",ESPN DEPORTES (Op.1)
 http://socketevolution.online:8080/HenDuq467/BAP5tpFwS1/482243
-#EXTINF:-1 tvg-id="" tvg-name="Es por su bien (2024)" tvg-logo="http://goldfull.pro:8880/images/fc28bfbb1b36f8791c6a79d2c49f7e91.jpg" group-title="⭐️Estrenos 2024",Es por su bien (2024)
+#EXTINF:-1 tvg-name="Es por su bien (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/fc28bfbb1b36f8791c6a79d2c49f7e91.jpg"group-title="⭐️Estrenos 2024",Es por su bien (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kurayukaba (2024)" tvg-logo="http://goldfull.pro:8880/images/fc7c101f9124fcce9c0583dca5fcf5e0.jpg" group-title="⭐️Estrenos 2024",Kurayukaba (2024)
+#EXTINF:-1 tvg-name="Kurayukaba (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/fc7c101f9124fcce9c0583dca5fcf5e0.jpg"group-title="⭐️Estrenos 2024",Kurayukaba (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El niño y la garza (2023)" tvg-logo="http://goldfull.pro:8880/images/2cb48798d386dafcb1cc6615ebe2f9dd.jpg" group-title="⭐️Estrenos 2024",El niño y la garza (2023)
+#EXTINF:-1 tvg-name="El niño y la garza (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/2cb48798d386dafcb1cc6615ebe2f9dd.jpg"group-title="⭐️Estrenos 2024",El niño y la garza (2023)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice in Terrorland (2023)" tvg-logo="http://goldfull.pro:8880/images/0bfe748095296e18de651fd3ed787802.jpg" group-title="⭐️Películas 2023",Alice in Terrorland (2023)
+#EXTINF:-1 tvg-name="Alice in Terrorland (2023)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0bfe748095296e18de651fd3ed787802.jpg"group-title="⭐️Películas 2023",Alice in Terrorland (2023)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loud House: No Hay Tiempo para Espiar (2024)" tvg-logo="http://goldfull.pro:8880/images/ad67134011c844ccaa08b89562e5b194.jpg" group-title="⭐️Estrenos 2024",Loud House: No Hay Tiempo para Espiar (2024)
+#EXTINF:-1 tvg-name="Loud House: No Hay Tiempo para Espiar (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ad67134011c844ccaa08b89562e5b194.jpg"group-title="⭐️Estrenos 2024",Loud House: No Hay Tiempo para Espiar (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maharajá (2024)" tvg-logo="http://goldfull.pro:8880/images/a9499d823560e622dc25f73dd30186fc.jpg" group-title="⭐️Estrenos 2024",Maharajá (2024)
+#EXTINF:-1 tvg-name="Maharajá (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/a9499d823560e622dc25f73dd30186fc.jpg"group-title="⭐️Estrenos 2024",Maharajá (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sight (2024)" tvg-logo="http://goldfull.pro:8880/images/3191a00d170ee772ae57414134437f08.jpg" group-title="⭐️Estrenos 2024",Sight (2024)
+#EXTINF:-1 tvg-name="Sight (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3191a00d170ee772ae57414134437f08.jpg"group-title="⭐️Estrenos 2024",Sight (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="We Grown Now (2024)" tvg-logo="http://goldfull.pro:8880/images/3d5e8690d24a97e7da741af9db9fabc3.jpg" group-title="⭐️Estrenos 2024",We Grown Now (2024)
+#EXTINF:-1 tvg-name="We Grown Now (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3d5e8690d24a97e7da741af9db9fabc3.jpg"group-title="⭐️Estrenos 2024",We Grown Now (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Canta y no llores (2024)" tvg-logo="http://goldfull.pro:8880/images/ef106da0eb2337cb1378ad175fa7f488.jpg" group-title="⭐️Estrenos 2024",Canta y no llores (2024)
+#EXTINF:-1 tvg-name="Canta y no llores (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ef106da0eb2337cb1378ad175fa7f488.jpg"group-title="⭐️Estrenos 2024",Canta y no llores (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi villano favorito 4 (2024)" tvg-logo="http://goldfull.pro:8880/images/548d399c1f8c316584aa951b941ffb4a.jpg" group-title="⭐️Estrenos 2024",Mi villano favorito 4 (2024)
+#EXTINF:-1 tvg-name="Mi villano favorito 4 (2024)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/548d399c1f8c316584aa951b941ffb4a.jpg"group-title="⭐️Estrenos 2024",Mi villano favorito 4 (2024)
 http://goldfull.pro:8880/movie/Prem222de100@/7YYZdLfZ6bKk/397615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="http://goldfull.pro:8880/images/b34ecbbcbdfcf25f9a3b5afc60680559.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs
+#EXTINF:-1 tvg-name="24/7 Animaniacs"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b34ecbbcbdfcf25f9a3b5afc60680559.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398002
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs 2" tvg-logo="http://goldfull.pro:8880/images/0d561e915039aa49c5568b8a2f6fdcfd.jpg" group-title="✅ 24/7 VIP",24/7 Animaniacs 2
+#EXTINF:-1 tvg-name="24/7 Animaniacs 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0d561e915039aa49c5568b8a2f6fdcfd.jpg"group-title="✅ 24/7 VIP",24/7 Animaniacs 2
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398003
-#EXTINF:-1 tvg-id="" tvg-name="Coraje" tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg" group-title="✅ 24/7 VIP",Coraje
+#EXTINF:-1 tvg-name="Coraje"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg"group-title="✅ 24/7 VIP",Coraje
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398004
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje 2" tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg" group-title="✅ 24/7 VIP",24/7 Coraje 2
+#EXTINF:-1 tvg-name="24/7 Coraje 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/df503481f16c4ba8a45369eb689d91ff.jpg"group-title="✅ 24/7 VIP",24/7 Coraje 2
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398005
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" group-title="✅ 24/7 VIP",24/7 Los Pitufos
+#EXTINF:-1 tvg-name="24/7 Los Pitufos"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg"group-title="✅ 24/7 VIP",24/7 Los Pitufos
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398006
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y cerebro" tvg-logo="http://goldfull.pro:8880/images/becdfe7e9014db39c611baa3bc4eed82.jpg" group-title="✅ 24/7 VIP",24/7 Pinky y cerebro
+#EXTINF:-1 tvg-name="24/7 Pinky y cerebro"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/becdfe7e9014db39c611baa3bc4eed82.jpg"group-title="✅ 24/7 VIP",24/7 Pinky y cerebro
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398007
-#EXTINF:-1 tvg-id="" tvg-name="Puca" tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg" group-title="✅ 24/7 VIP",Puca
+#EXTINF:-1 tvg-name="Puca"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg"group-title="✅ 24/7 VIP",Puca
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398008
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Puca 2" tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg" group-title="✅ 24/7 VIP",24/7 Puca 2
+#EXTINF:-1 tvg-name="24/7 Puca 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b44bb20e1d14864b8bb8b5181ee54947.jpg"group-title="✅ 24/7 VIP",24/7 Puca 2
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398009
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X-men Animado" tvg-logo="http://goldfull.pro:8880/images/56aff344db5fb99290bb7598c4a37829.jpg" group-title="✅ 24/7 VIP",24/7 X-men Animado
+#EXTINF:-1 tvg-name="24/7 X-men Animado"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/56aff344db5fb99290bb7598c4a37829.jpg"group-title="✅ 24/7 VIP",24/7 X-men Animado
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398010
-#EXTINF:-1 tvg-id="" tvg-name="Adventure Time" tvg-logo="http://goldfull.pro:8880/images/51db3ea592b6c2f33ed090ed8b5a261b.jpg" group-title="✅ 24/7 VIP",Adventure Time
+#EXTINF:-1 tvg-name="Adventure Time"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/51db3ea592b6c2f33ed090ed8b5a261b.jpg"group-title="✅ 24/7 VIP",Adventure Time
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398011
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="http://goldfull.pro:8880/images/f771eaddb076ec2d1a31c7b3c4234620.jpg" group-title="✅ 24/7 VIP",Aquaman
+#EXTINF:-1 tvg-name="Aquaman"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f771eaddb076ec2d1a31c7b3c4234620.jpg"group-title="✅ 24/7 VIP",Aquaman
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398012
-#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 2" tvg-logo="http://goldfull.pro:8880/images/c40495aacc5f4786aeb7e38e6281f949.jpg" group-title="✅ 24/7 VIP",Baby Looney Tunes 2
+#EXTINF:-1 tvg-name="Baby Looney Tunes 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c40495aacc5f4786aeb7e38e6281f949.jpg"group-title="✅ 24/7 VIP",Baby Looney Tunes 2
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398013
-#EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg" group-title="✅ 24/7 VIP",Bakugan
+#EXTINF:-1 tvg-name="Bakugan"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg"group-title="✅ 24/7 VIP",Bakugan
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398014
-#EXTINF:-1 tvg-id="" tvg-name="Bakugan 2008" tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg" group-title="✅ 24/7 VIP",Bakugan 2008
+#EXTINF:-1 tvg-name="Bakugan 2008"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/09eb8b0d103e1edcdf6de1e38275c31b.jpg"group-title="✅ 24/7 VIP",Bakugan 2008
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398015
-#EXTINF:-1 tvg-id="" tvg-name="Bebe vuelta al curro" tvg-logo="http://goldfull.pro:8880/images/cbe9c19007514d8d7922cfcc7cd0bd75.jpg" group-title="✅ 24/7 VIP",Bebe vuelta al curro
+#EXTINF:-1 tvg-name="Bebe vuelta al curro"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cbe9c19007514d8d7922cfcc7cd0bd75.jpg"group-title="✅ 24/7 VIP",Bebe vuelta al curro
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398016
-#EXTINF:-1 tvg-id="" tvg-name="Beetjuice (r)" tvg-logo="http://goldfull.pro:8880/images/efa15a16e652934b9f3e7b97a25d7564.jpg" group-title="✅ 24/7 VIP",Beetjuice (r)
+#EXTINF:-1 tvg-name="Beetjuice (r)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/efa15a16e652934b9f3e7b97a25d7564.jpg"group-title="✅ 24/7 VIP",Beetjuice (r)
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398017
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="http://goldfull.pro:8880/images/44aa72a1d513b7dedda2d0ee69712515.jpg" group-title="✅ 24/7 VIP",Ben 10
+#EXTINF:-1 tvg-name="Ben 10"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/44aa72a1d513b7dedda2d0ee69712515.jpg"group-title="✅ 24/7 VIP",Ben 10
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398018
-#EXTINF:-1 tvg-id="" tvg-name="Ben10 (2)" tvg-logo="http://goldfull.pro:8880/images/baaf609912d915a4b0634d816eb25d42.jpg" group-title="✅ 24/7 VIP",Ben10 (2)
+#EXTINF:-1 tvg-name="Ben10 (2)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/baaf609912d915a4b0634d816eb25d42.jpg"group-title="✅ 24/7 VIP",Ben10 (2)
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398019
-#EXTINF:-1 tvg-id="" tvg-name="Bugs Bunny" tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg" group-title="✅ 24/7 VIP",Bugs Bunny
+#EXTINF:-1 tvg-name="Bugs Bunny"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg"group-title="✅ 24/7 VIP",Bugs Bunny
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398020
-#EXTINF:-1 tvg-id="" tvg-name="Chapulin anime" tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg" group-title="✅ 24/7 VIP",Chapulin anime
+#EXTINF:-1 tvg-name="Chapulin anime"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/86c90219afa44b32031283a0a2382952.jpg"group-title="✅ 24/7 VIP",Chapulin anime
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398021
-#EXTINF:-1 tvg-id="" tvg-name="Chapulin Colorado" tvg-logo="http://goldfull.pro:8880/images/6811ddeb35a04ac970d5993fbadba3ca.jpg" group-title="✅ 24/7 VIP",Chapulin Colorado
+#EXTINF:-1 tvg-name="Chapulin Colorado"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/6811ddeb35a04ac970d5993fbadba3ca.jpg"group-title="✅ 24/7 VIP",Chapulin Colorado
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398022
-#EXTINF:-1 tvg-id="" tvg-name="Coyote" tvg-logo="http://goldfull.pro:8880/images/f816e13b20d36b2c8f6f5554cf56eb5e.jpg" group-title="✅ 24/7 VIP",Coyote
+#EXTINF:-1 tvg-name="Coyote"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f816e13b20d36b2c8f6f5554cf56eb5e.jpg"group-title="✅ 24/7 VIP",Coyote
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398023
-#EXTINF:-1 tvg-id="" tvg-name="Don Gato" tvg-logo="http://goldfull.pro:8880/images/bc618d3c3a7e8dc24777c187332a345f.jpg" group-title="✅ 24/7 VIP",Don Gato
+#EXTINF:-1 tvg-name="Don Gato"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/bc618d3c3a7e8dc24777c187332a345f.jpg"group-title="✅ 24/7 VIP",Don Gato
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398024
-#EXTINF:-1 tvg-id="" tvg-name="Dora La Exploradora (avi)" tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg" group-title="✅ 24/7 VIP",Dora La Exploradora (avi)
+#EXTINF:-1 tvg-name="Dora La Exploradora (avi)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg"group-title="✅ 24/7 VIP",Dora La Exploradora (avi)
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398025
-#EXTINF:-1 tvg-id="" tvg-name="Dos perros tontos (r)" tvg-logo="http://goldfull.pro:8880/images/242b8c03adcf6fbac11b6a890d9ca5f2.jpg" group-title="✅ 24/7 VIP",Dos perros tontos (r)
+#EXTINF:-1 tvg-name="Dos perros tontos (r)"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/242b8c03adcf6fbac11b6a890d9ca5f2.jpg"group-title="✅ 24/7 VIP",Dos perros tontos (r)
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398026
-#EXTINF:-1 tvg-id="" tvg-name="El Galactico" tvg-logo="http://goldfull.pro:8880/images/9d6d84423a9018fd783281632aa6173b.jpg" group-title="✅ 24/7 VIP",El Galactico
+#EXTINF:-1 tvg-name="El Galactico"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9d6d84423a9018fd783281632aa6173b.jpg"group-title="✅ 24/7 VIP",El Galactico
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398027
-#EXTINF:-1 tvg-id="" tvg-name="El inspector Ardilla" tvg-logo="http://goldfull.pro:8880/images/806665de90e9408dc17e679ed3107a71.jpg" group-title="✅ 24/7 VIP",El inspector Ardilla
+#EXTINF:-1 tvg-name="El inspector Ardilla"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/806665de90e9408dc17e679ed3107a71.jpg"group-title="✅ 24/7 VIP",El inspector Ardilla
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398028
-#EXTINF:-1 tvg-id="" tvg-name="El Inspector Gadget" tvg-logo="http://goldfull.pro:8880/images/7321a9454c2b720d2b6754e53986af3c.jpg" group-title="✅ 24/7 VIP",El Inspector Gadget
+#EXTINF:-1 tvg-name="El Inspector Gadget"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/7321a9454c2b720d2b6754e53986af3c.jpg"group-title="✅ 24/7 VIP",El Inspector Gadget
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398029
-#EXTINF:-1 tvg-id="" tvg-name="El Vengador" tvg-logo="http://goldfull.pro:8880/images/9152239594a8e5299177931bbb4958e2.jpg" group-title="✅ 24/7 VIP",El Vengador
+#EXTINF:-1 tvg-name="El Vengador"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/9152239594a8e5299177931bbb4958e2.jpg"group-title="✅ 24/7 VIP",El Vengador
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398030
-#EXTINF:-1 tvg-id="" tvg-name="Hanna Barbera" tvg-logo="http://goldfull.pro:8880/images/00f2fc875166c59e6c2b99cae1096122.jpg" group-title="✅ 24/7 VIP",Hanna Barbera
+#EXTINF:-1 tvg-name="Hanna Barbera"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/00f2fc875166c59e6c2b99cae1096122.jpg"group-title="✅ 24/7 VIP",Hanna Barbera
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398031
-#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="http://goldfull.pro:8880/images/5760b665b3106e6cafb70ce75dcd0b1e.jpg" group-title="✅ 24/7 VIP",Hey Arnold
+#EXTINF:-1 tvg-name="Hey Arnold"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/5760b665b3106e6cafb70ce75dcd0b1e.jpg"group-title="✅ 24/7 VIP",Hey Arnold
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398032
-#EXTINF:-1 tvg-id="" tvg-name="Jefe En Pañales" tvg-logo="http://goldfull.pro:8880/images/44d6db1589e05025b3ab2a312096c95b.jpg" group-title="✅ 24/7 VIP",Jefe En Pañales
+#EXTINF:-1 tvg-name="Jefe En Pañales"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/44d6db1589e05025b3ab2a312096c95b.jpg"group-title="✅ 24/7 VIP",Jefe En Pañales
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398033
-#EXTINF:-1 tvg-id="" tvg-name="Looney Toons Baby" tvg-logo="http://goldfull.pro:8880/images/637b4658d15858cbb963c3504c69cbaa.jpg" group-title="✅ 24/7 VIP",Looney Toons Baby
+#EXTINF:-1 tvg-name="Looney Toons Baby"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/637b4658d15858cbb963c3504c69cbaa.jpg"group-title="✅ 24/7 VIP",Looney Toons Baby
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398034
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg" group-title="✅ 24/7 VIP",Mickey Mouse
+#EXTINF:-1 tvg-name="Mickey Mouse"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg"group-title="✅ 24/7 VIP",Mickey Mouse
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398035
-#EXTINF:-1 tvg-id="" tvg-name="Oliver" tvg-logo="http://goldfull.pro:8880/images/8818958d7939254d5516708c34ef3411.jpg" group-title="✅ 24/7 VIP",Oliver
+#EXTINF:-1 tvg-name="Oliver"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/8818958d7939254d5516708c34ef3411.jpg"group-title="✅ 24/7 VIP",Oliver
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398036
-#EXTINF:-1 tvg-id="" tvg-name="Vampirina" tvg-logo="http://goldfull.pro:8880/images/a5ae4ef6086c6dbba80b7df1cb82a4d0.jpg" group-title="✅ 24/7 VIP",Vampirina
+#EXTINF:-1 tvg-name="Vampirina"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/a5ae4ef6086c6dbba80b7df1cb82a4d0.jpg"group-title="✅ 24/7 VIP",Vampirina
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398037
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="http://goldfull.pro:8880/images/987d55dfaf22161d271fae9dcd979d90.jpg" group-title="✅ 24/7 VIP",Yu-Gi-Oh
+#EXTINF:-1 tvg-name="Yu-Gi-Oh"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/987d55dfaf22161d271fae9dcd979d90.jpg"group-title="✅ 24/7 VIP",Yu-Gi-Oh
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398038
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jhonny bravo" tvg-logo="http://goldfull.pro:8880/images/eb9914fb4eb24f33a4b446238d8ce152.jpg" group-title="✅ 24/7 VIP",24/7 Jhonny bravo
+#EXTINF:-1 tvg-name="24/7 Jhonny bravo"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/eb9914fb4eb24f33a4b446238d8ce152.jpg"group-title="✅ 24/7 VIP",24/7 Jhonny bravo
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398039
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon liga indigo" tvg-logo="http://goldfull.pro:8880/images/95e60256d47dccd7d2af71a93cb032e4.jpg" group-title="✅ 24/7 VIP",24/7 Pokemon liga indigo
+#EXTINF:-1 tvg-name="24/7 Pokemon liga indigo"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/95e60256d47dccd7d2af71a93cb032e4.jpg"group-title="✅ 24/7 VIP",24/7 Pokemon liga indigo
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398040
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kung Fu panda" tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg" group-title="✅ 24/7 VIP",24/7 Kung Fu panda
+#EXTINF:-1 tvg-name="24/7 Kung Fu panda"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg"group-title="✅ 24/7 VIP",24/7 Kung Fu panda
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398041
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Miraculous" tvg-logo="http://goldfull.pro:8880/images/badbd9635bb1afe4a45d2a655ca57b78.jpg" group-title="✅ 24/7 VIP",24/7 Miraculous
+#EXTINF:-1 tvg-name="24/7 Miraculous"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/badbd9635bb1afe4a45d2a655ca57b78.jpg"group-title="✅ 24/7 VIP",24/7 Miraculous
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398042
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Octonautas" tvg-logo="http://goldfull.pro:8880/images/357381229aa291061aac94504b5ce367.jpg" group-title="✅ 24/7 VIP",24/7 Octonautas
+#EXTINF:-1 tvg-name="24/7 Octonautas"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/357381229aa291061aac94504b5ce367.jpg"group-title="✅ 24/7 VIP",24/7 Octonautas
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398043
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Patrulla Canina" tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg" group-title="✅ 24/7 VIP",24/7 Patrulla Canina
+#EXTINF:-1 tvg-name="24/7 Patrulla Canina"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg"group-title="✅ 24/7 VIP",24/7 Patrulla Canina
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398044
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg" group-title="✅ 24/7 VIP",24/7 Peppa Pig
+#EXTINF:-1 tvg-name="24/7 Peppa Pig"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg"group-title="✅ 24/7 VIP",24/7 Peppa Pig
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398045
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pistas de blue" tvg-logo="http://goldfull.pro:8880/images/c566c42e7eb8984c563b56320ef7fe0e.jpg" group-title="✅ 24/7 VIP",24/7 Pistas de blue
+#EXTINF:-1 tvg-name="24/7 Pistas de blue"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/c566c42e7eb8984c563b56320ef7fe0e.jpg"group-title="✅ 24/7 VIP",24/7 Pistas de blue
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398046
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Un show mas" tvg-logo="http://goldfull.pro:8880/images/ce60f9637d6771a128c5809f7ced3dda.jpg" group-title="✅ 24/7 VIP",24/7 Un show mas
+#EXTINF:-1 tvg-name="24/7 Un show mas"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/ce60f9637d6771a128c5809f7ced3dda.jpg"group-title="✅ 24/7 VIP",24/7 Un show mas
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398047
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gumball" tvg-logo="http://goldfull.pro:8880/images/f07e83a832e29f53e70d41674a0a156b.jpg" group-title="✅ 24/7 VIP",24/7 Gumball
+#EXTINF:-1 tvg-name="24/7 Gumball"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f07e83a832e29f53e70d41674a0a156b.jpg"group-title="✅ 24/7 VIP",24/7 Gumball
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398048
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pj Mask" tvg-logo="http://goldfull.pro:8880/images/dba5ff2019597cd81eab4601a39bc891.jpg" group-title="✅ 24/7 VIP",24/7 Pj Mask
+#EXTINF:-1 tvg-name="24/7 Pj Mask"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/dba5ff2019597cd81eab4601a39bc891.jpg"group-title="✅ 24/7 VIP",24/7 Pj Mask
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398049
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el oso" tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg" group-title="✅ 24/7 VIP",24/7 Masha y el oso
+#EXTINF:-1 tvg-name="24/7 Masha y el oso"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg"group-title="✅ 24/7 VIP",24/7 Masha y el oso
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398050
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de muñecas de Gabby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" group-title="✅ 24/7 VIP",24/7 La casa de muñecas de Gabby
+#EXTINF:-1 tvg-name="24/7 La casa de muñecas de Gabby"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s"group-title="✅ 24/7 VIP",24/7 La casa de muñecas de Gabby
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398051
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chip y potato" tvg-logo="http://goldfull.pro:8880/images/77e7d3689a30179a497861c27d6ff230.jpg" group-title="✅ 24/7 VIP",24/7 Chip y potato
+#EXTINF:-1 tvg-name="24/7 Chip y potato"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/77e7d3689a30179a497861c27d6ff230.jpg"group-title="✅ 24/7 VIP",24/7 Chip y potato
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398052
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" tvg-logo="http://127.0.0.1/" group-title="✅ 24/7 VIP",24/7 Bluey
+#EXTINF:-1 tvg-name="24/7 Bluey"tvg-id=""tvg-logo="http://127.0.0.1/"group-title="✅ 24/7 VIP",24/7 Bluey
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398053
-#EXTINF:-1 tvg-id="" tvg-name="Dbz 2" tvg-logo="http://goldfull.pro:8880/images/3ccf5c334245f224cb4d52503e0dcadc.jpg" group-title="✅ 24/7 VIP",Dbz 2
+#EXTINF:-1 tvg-name="Dbz 2"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/3ccf5c334245f224cb4d52503e0dcadc.jpg"group-title="✅ 24/7 VIP",Dbz 2
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398055
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Freezer" tvg-logo="http://goldfull.pro:8880/images/56c6caf4de4b4f642d09d516b9b7fb24.jpg" group-title="✅ 24/7 VIP",Dbz Freezer
+#EXTINF:-1 tvg-name="Dbz Freezer"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/56c6caf4de4b4f642d09d516b9b7fb24.jpg"group-title="✅ 24/7 VIP",Dbz Freezer
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398056
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Garlick" tvg-logo="http://goldfull.pro:8880/images/f0cd28a9234008f52ad909f63f0f38f3.jpg" group-title="✅ 24/7 VIP",Dbz Garlick
+#EXTINF:-1 tvg-name="Dbz Garlick"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/f0cd28a9234008f52ad909f63f0f38f3.jpg"group-title="✅ 24/7 VIP",Dbz Garlick
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398057
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="✅ 24/7 VIP",Dbz Gt
+#EXTINF:-1 tvg-name="Dbz Gt"tvg-id=""tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe"group-title="✅ 24/7 VIP",Dbz Gt
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398058
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Heroes" tvg-logo="http://goldfull.pro:8880/images/22ba41774d7b5ce74556114c2c65b587.jpg" group-title="✅ 24/7 VIP",Dbz Heroes
+#EXTINF:-1 tvg-name="Dbz Heroes"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/22ba41774d7b5ce74556114c2c65b587.jpg"group-title="✅ 24/7 VIP",Dbz Heroes
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398059
-#EXTINF:-1 tvg-id="" tvg-name="Dbz Kai" tvg-logo="http://goldfull.pro:8880/images/b3e2ee61bafe9e069ed3e3f7484fa6d1.jpg" group-title="✅ 24/7 VIP",Dbz Kai
+#EXTINF:-1 tvg-name="Dbz Kai"tvg-id=""tvg-logo="http://goldfull.pro:8880/images/b3e2ee61bafe9e069ed3e3f7484fa6d1.jpg"group-title="✅ 24/7 VIP",Dbz Kai
 http://goldfull.pro:8880/Prem222de100@/7YYZdLfZ6bKk/398060
