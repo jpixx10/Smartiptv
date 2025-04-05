@@ -491,8 +491,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/11992
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/64415
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium" tvg-logo="https://sport-tv-guide.live/images/stations/a192.png" group-title="DEPORTES MEXICO",FOX Sports Premium
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/38384
-#EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO",TUDN HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/50497
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/AMC-Theatres-Logo-1980.jpg" group-title="CINE",AMC SD
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/11642
 #EXTINF:-1 tvg-id="" tvg-name="Flix HD West" tvg-logo="" group-title="CINE",Flix HD West
@@ -1311,12 +1309,6 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/73715
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/73716
 #EXTINF:-1 tvg-id="" tvg-name="Ranma ½ HD" tvg-logo="" group-title="24/7",Ranma ½ HD
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/73717
-#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 1" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES",TUDNXTRA 1
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83260
-#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 2" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES",TUDNXTRA 2
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83261
-#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 3" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES",TUDNXTRA 3
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/83262
 #EXTINF:-1 tvg-id="" tvg-name="RACING AMERICA" tvg-logo="https://photos.smugmug.com/RA-Logos-/i-THPBPLq/1/23e7ccf0/L/RacingAmerica-Logo-FullColor-L.png" group-title="USA",RACING AMERICA
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/90110
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Corazon" tvg-logo=" https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="MEXICO",Azteca Corazon
