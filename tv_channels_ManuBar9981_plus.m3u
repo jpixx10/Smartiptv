@@ -1315,6 +1315,272 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/90110
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/95755
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",Azteca 7 HD
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/95756
+#EXTINF:-1 tvg-id="" tvg-name="MEX-8NTV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="MEXICO-LOCAL",MEX-8NTV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87676
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO-LOCAL",MEX-ADN 40 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87678
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Alcance TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="MEXICO-LOCAL",MEX-Alcance TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87679
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Internacional (W) [Geo-bloc](1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MEXICO-LOCAL",MEX-Azteca Internacional (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87682
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BBC News (North America) (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="MEXICO-LOCAL",MEX-BBC News (North America) (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87684
+#EXTINF:-1 tvg-id="" tvg-name="MEX-California Medios TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="MEXICO-LOCAL",MEX-California Medios TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87685
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 10 Cancún (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="MEXICO-LOCAL",MEX-Canal 10 Cancún (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87688
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 10 Chiapas (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="MEXICO-LOCAL",MEX-Canal 10 Chiapas (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87689
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 13 Tierra Caliente (768p)" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="MEXICO-LOCAL",MEX-Canal 13 Tierra Caliente (768p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87690
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 15 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="MEXICO-LOCAL",MEX-Canal 15 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87691
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 21 Chignahuapan (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="MEXICO-LOCAL",MEX-Canal 21 Chignahuapan (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87692
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 21 Jalisco (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="MEXICO-LOCAL",MEX-Canal 21 Jalisco (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87693
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 21 Rioverde (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/22oVtx0.png" group-title="MEXICO-LOCAL",MEX-Canal 21 Rioverde (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87694
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 22 Nacional (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="MEXICO-LOCAL",MEX-Canal 22 Nacional (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87695
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 26 Aguascalientes (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="MEXICO-LOCAL",MEX-Canal 26 Aguascalientes (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87696
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 33 Tijuana (W) [Geo-bloc](720)" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="MEXICO-LOCAL",MEX-Canal 33 Tijuana (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87698
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 37 San Juan de los Lagos (270p)" tvg-logo="https://i.imgur.com/7ib3wEh.png" group-title="MEXICO-LOCAL",MEX-Canal 37 San Juan de los Lagos (270p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87699
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 44 Chihuahua (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="MEXICO-LOCAL",MEX-Canal 44 Chihuahua (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87700
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 6 CDMX" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Canal 6 CDMX
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87686
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 6 Tecpán (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/8eBwYai.png" group-title="MEXICO-LOCAL",MEX-Canal 6 Tecpán (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87687
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal del Congreso 45.1 (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="MEXICO-LOCAL",MEX-Canal del Congreso 45.1 (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87702
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal del Congreso 45.2 (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/TtVZR5W.png" group-title="MEXICO-LOCAL",MEX-Canal del Congreso 45.2 (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87703
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal del Congreso 45.3 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/DS3166S.png" group-title="MEXICO-LOCAL",MEX-Canal del Congreso 45.3 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87704
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal Ocho TV (W) [Geo-bloc](1080)" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="MEXICO-LOCAL",MEX-Canal Ocho TV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87705
+#EXTINF:-1 tvg-id="" tvg-name="MEX-CCTV-4 America (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="MEXICO-LOCAL",MEX-CCTV-4 America (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87706
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Conecta TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="MEXICO-LOCAL",MEX-Conecta TV
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87707
+#EXTINF:-1 tvg-id="" tvg-name="MEX-CreaLaTV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="MEXICO-LOCAL",MEX-CreaLaTV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87708
+#EXTINF:-1 tvg-id="" tvg-name="MEX-DiezTV Encarnación (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/UVG71ES.png" group-title="MEXICO-LOCAL",MEX-DiezTV Encarnación (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87709
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87710
+#EXTINF:-1 tvg-id="" tvg-name="MEX-EstrellaTV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="MEXICO-LOCAL",MEX-EstrellaTV
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87711
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Expresa TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="MEXICO-LOCAL",MEX-Expresa TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87712
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Fanpop TV" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="MEXICO-LOCAL",MEX-Fanpop TV
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87713
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Filmex (Xumo) (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="MEXICO-LOCAL",MEX-Filmex (Xumo) (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87714
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Filmex Clásico (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="MEXICO-LOCAL",MEX-Filmex Clásico (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87715
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Info TV 9 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Rgu6Hzo.png" group-title="MEXICO-LOCAL",MEX-Info TV 9 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87716
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="MEXICO-LOCAL",MEX-ITV Deportes
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87717
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Justicia TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="MEXICO-LOCAL",MEX-Justicia TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87718
+#EXTINF:-1 tvg-id="" tvg-name="MEX-La Imagen de Tierra Caliente (768p)" tvg-logo="https://i.ibb.co/HLyhpkR/Screenshot-20231201-163133.jpg" group-title="MEXICO-LOCAL",MEX-La Imagen de Tierra Caliente (768p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87719
+#EXTINF:-1 tvg-id="" tvg-name="MEX-La Luperrona Ciudad Guzmán (240p)" tvg-logo="https://i.imgur.com/nkgOsSv.jpg" group-title="MEXICO-LOCAL",MEX-La Luperrona Ciudad Guzmán (240p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87720
+#EXTINF:-1 tvg-id="" tvg-name="MEX-La Luperrona Colima (256p)" tvg-logo="https://i.imgur.com/hubV9nC.jpg" group-title="MEXICO-LOCAL",MEX-La Luperrona Colima (256p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87721
+#EXTINF:-1 tvg-id="" tvg-name="MEX-La Luperrona Ocotlán (300p)" tvg-logo="https://i.imgur.com/URMA6lE.jpg" group-title="MEXICO-LOCAL",MEX-La Luperrona Ocotlán (300p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87722
+#EXTINF:-1 tvg-id="" tvg-name="MEX-La Voz Grupera TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Ku1CEeb.png" group-title="MEXICO-LOCAL",MEX-La Voz Grupera TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87723
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Lobo TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="MEXICO-LOCAL",MEX-Lobo TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87724
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Los Altos Televisión (W) [Geo-bloc](720)" tvg-logo="https://i.ibb.co/qYs9cPQ/Unnamed-41.jpg" group-title="MEXICO-LOCAL",MEX-Los Altos Televisión (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87725
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Meganoticias MX (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/kARz7SR.png" group-title="MEXICO-LOCAL",MEX-Meganoticias MX (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87726
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Mexiquense TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="MEXICO-LOCAL",MEX-Mexiquense TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87727
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Milenio Television" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="MEXICO-LOCAL",MEX-Milenio Television
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87728
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Bajío (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Bajío (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87729
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Ciudad Juárez (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Ciudad Juárez (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87730
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Guadalajara (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Guadalajara (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87731
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Laguna (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Laguna (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87732
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Monterrey (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Monterrey (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87733
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Puebla (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Puebla (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87734
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Multimedios Saltillo (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO-LOCAL",MEX-Multimedios Saltillo (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87735
+#EXTINF:-1 tvg-id="" tvg-name="MEX-MyTime Movie Network Mexico (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="MEXICO-LOCAL",MEX-MyTime Movie Network Mexico (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87736
+#EXTINF:-1 tvg-id="" tvg-name="MEX-NMás (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="MEXICO-LOCAL",MEX-NMás (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87737
+#EXTINF:-1 tvg-id="" tvg-name="MEX-NRT México Internacional (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W2E0fSy.png" group-title="MEXICO-LOCAL",MEX-NRT México Internacional (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87738
+#EXTINF:-1 tvg-id="" tvg-name="MEX-NRT México Región Centro (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/yjNUzYD.jpg" group-title="MEXICO-LOCAL",MEX-NRT México Región Centro (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87739
+#EXTINF:-1 tvg-id="" tvg-name="MEX-NRT México Región Sureste (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/rxVVrZV.jpg" group-title="MEXICO-LOCAL",MEX-NRT México Región Sureste (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87740
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Nueve TV San Luís Potosí (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="MEXICO-LOCAL",MEX-Nueve TV San Luís Potosí (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87741
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Once México (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="MEXICO-LOCAL",MEX-Once México (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87742
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Paralelo 20 650 AM (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/9SOZ2Sh.png" group-title="MEXICO-LOCAL",MEX-Paralelo 20 650 AM (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87743
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Pluto TV EN DIRECTO EN VIVO (W) [Geo-bloc](720)" tvg-logo="" group-title="MEXICO-LOCAL",MEX-Pluto TV EN DIRECTO EN VIVO (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87744
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Pluto TV MTV Embarazada a los 16 (W) [Geo-bloc](720)" tvg-logo="" group-title="MEXICO-LOCAL",MEX-Pluto TV MTV Embarazada a los 16 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87745
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Presumiendo México (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="MEXICO-LOCAL",MEX-Presumiendo México (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87746
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Quiero TV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="MEXICO-LOCAL",MEX-Quiero TV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87747
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Radar TV 71 (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/wn9g4PY.png" group-title="MEXICO-LOCAL",MEX-Radar TV 71 (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87748
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Radio y Televisión Budokan (352p)" tvg-logo="https://i.imgur.com/1rfoSt8.png" group-title="MEXICO-LOCAL",MEX-Radio y Televisión Budokan (352p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87749
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Raly TV (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="MEXICO-LOCAL",MEX-Raly TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87750
+#EXTINF:-1 tvg-id="" tvg-name="MEX-RCG TV (Timeshifted -2 Hours) (W) [Geo-bloc](720)" tvg-logo="" group-title="MEXICO-LOCAL",MEX-RCG TV (Timeshifted -2 Hours) (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87752
+#EXTINF:-1 tvg-id="" tvg-name="MEX-RCG TV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="MEXICO-LOCAL",MEX-RCG TV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87751
+#EXTINF:-1 tvg-id="" tvg-name="MEX-RTQ Queretaro (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="MEXICO-LOCAL",MEX-RTQ Queretaro (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87753
+#EXTINF:-1 tvg-id="" tvg-name="MEX-SET Televisión Canal 26.1 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="MEXICO-LOCAL",MEX-SET Televisión Canal 26.1 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87755
+#EXTINF:-1 tvg-id="" tvg-name="MEX-SET Televisión Canal 26.2 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="MEXICO-LOCAL",MEX-SET Televisión Canal 26.2 (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87756
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Señal España (XHUNES-TDT) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="MEXICO-LOCAL",MEX-Señal España (XHUNES-TDT) (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87754
+#EXTINF:-1 tvg-id="" tvg-name="MEX-SIPSE TV 8.1 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="MEXICO-LOCAL",MEX-SIPSE TV 8.1 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87758
+#EXTINF:-1 tvg-id="" tvg-name="MEX-SIPSE TVCUN 8.1 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="MEXICO-LOCAL",MEX-SIPSE TVCUN 8.1 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87759
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Sistema Michoacano de TV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="MEXICO-LOCAL",MEX-Sistema Michoacano de TV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87760
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Spike Adventura (W) [Geo-bloc](720)" tvg-logo="" group-title="MEXICO-LOCAL",MEX-Spike Adventura (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87761
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Super Channel 12 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="MEXICO-LOCAL",MEX-Super Channel 12 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87762
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Síntesis TV (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/1g9mbqi.png" group-title="MEXICO-LOCAL",MEX-Síntesis TV (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87757
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TELE 4 Ojocaliente (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/TkzIqR2.jpg" group-title="MEXICO-LOCAL",MEX-TELE 4 Ojocaliente (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87763
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TeleFórmula (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="MEXICO-LOCAL",MEX-TeleFórmula (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87764
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Telemax (XEWH-TDT) (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="MEXICO-LOCAL",MEX-Telemax (XEWH-TDT) (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87766
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Teleplay Sureste (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="MEXICO-LOCAL",MEX-Teleplay Sureste (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87767
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Teleritmo (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="MEXICO-LOCAL",MEX-Teleritmo (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87768
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Ciudad Juarez (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="MEXICO-LOCAL",MEX-Televisa Ciudad Juarez (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87771
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Del Bajio (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="MEXICO-LOCAL",MEX-Televisa Del Bajio (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87772
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Ensenada (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/TY6ewSv.png" group-title="MEXICO-LOCAL",MEX-Televisa Ensenada (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87776
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Laguna (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/M2O164z.png" group-title="MEXICO-LOCAL",MEX-Televisa Laguna (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87779
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Mexicali (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Mexicali (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87780
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="MEXICO-LOCAL",MEX-Televisa Monterrey (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87781
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Piedras Negras (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/MNqBa1f.png" group-title="MEXICO-LOCAL",MEX-Televisa Piedras Negras (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87784
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Puebla (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Puebla (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87785
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Quintana Roo (W) [Geo-bloc](1080)" tvg-logo="https://i.ibb.co/W6mQCTV/Channels4-profile-9.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Quintana Roo (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87787
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Saltillo (W) [Geo-bloc](1080)" tvg-logo="https://i.ibb.co/Zhm2BDD/Vc-NGCKrw-400x400.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Saltillo (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87788
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Sinaloa (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="MEXICO-LOCAL",MEX-Televisa Sinaloa (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87790
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Sonora (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="MEXICO-LOCAL",MEX-Televisa Sonora (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87791
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Tijuana (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/GWk6lTX.png" group-title="MEXICO-LOCAL",MEX-Televisa Tijuana (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87792
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Veracruz (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="MEXICO-LOCAL",MEX-Televisa Veracruz (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87793
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Yucatán (W) [Geo-bloc](720)" tvg-logo="https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg" group-title="MEXICO-LOCAL",MEX-Televisa Yucatán (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87795
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Zacatecas (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="MEXICO-LOCAL",MEX-Televisa Zacatecas (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87796
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Tlaxcala Televisión (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="MEXICO-LOCAL",MEX-Tlaxcala Televisión (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87797
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TRC Televisión (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="MEXICO-LOCAL",MEX-TRC Televisión (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87798
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TUDN (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="MEXICO-LOCAL",MEX-TUDN (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87799
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Azteca Noreste (Info7 Monterrey) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="MEXICO-LOCAL",MEX-TV Azteca Noreste (Info7 Monterrey) (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87801
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Cuatro 4.1 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO-LOCAL",MEX-TV Cuatro 4.1 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87802
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Cuatro 4.2 (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="MEXICO-LOCAL",MEX-TV Cuatro 4.2 (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87803
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Daja (W) [Geo-bloc](1080)" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="MEXICO-LOCAL",MEX-TV Daja (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87804
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Guanajuato (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="MEXICO-LOCAL",MEX-TV Guanajuato (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87805
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Independencia (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/kuyQvUP.png" group-title="MEXICO-LOCAL",MEX-TV Independencia (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87806
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Libertad (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/yvbhH8c.png" group-title="MEXICO-LOCAL",MEX-TV Libertad (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87807
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Lobo Durango (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="MEXICO-LOCAL",MEX-TV Lobo Durango (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87808
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Mar La Paz (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO-LOCAL",MEX-TV Mar La Paz (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87809
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Mar Puerto Vallarta (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="MEXICO-LOCAL",MEX-TV Mar Puerto Vallarta (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87810
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV Nuevo León Canal 28 (XHMNL-TDT) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="MEXICO-LOCAL",MEX-TV Nuevo León Canal 28 (XHMNL-TDT) (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87811
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV UJAT (XHUJAT-TDT) (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="MEXICO-LOCAL",MEX-TV UJAT (XHUJAT-TDT) (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87812
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TV5 Tu Canal (768p)" tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg" group-title="MEXICO-LOCAL",MEX-TV5 Tu Canal (768p)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87800
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVE Star HD (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="MEXICO-LOCAL",MEX-TVE Star HD (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87813
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVMás (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="MEXICO-LOCAL",MEX-TVMás (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87814
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVMÁS (XHGV-TDT) (W) [Geo-bloc](SD)" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO-LOCAL",MEX-TVMÁS (XHGV-TDT) (W) [Geo-bloc](SD)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87815
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVP Culiacán (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="MEXICO-LOCAL",MEX-TVP Culiacán (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87816
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVP Los Mochis (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="MEXICO-LOCAL",MEX-TVP Los Mochis (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87817
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVP Mazatlán (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="MEXICO-LOCAL",MEX-TVP Mazatlán (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87818
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVP Obregón (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="MEXICO-LOCAL",MEX-TVP Obregón (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87819
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Ultra TV Puebla (W) [Geo-bloc](720)" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="MEXICO-LOCAL",MEX-Ultra TV Puebla (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87820
+#EXTINF:-1 tvg-id="" tvg-name="MEX-UMTV (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="MEXICO-LOCAL",MEX-UMTV (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87821
+#EXTINF:-1 tvg-id="" tvg-name="MEX-VB Media TV" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="MEXICO-LOCAL",MEX-VB Media TV
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87822
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Veracruz Multimedios TV (W) [Geo-bloc](720)" tvg-logo="https://i.ibb.co/8sDvnT2/Screenshot-20231201-165527.jpg" group-title="MEXICO-LOCAL",MEX-Veracruz Multimedios TV (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87823
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Videa Plataforma (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/pnk4SsI.jpg" group-title="MEXICO-LOCAL",MEX-Videa Plataforma (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87824
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Visión Televisión (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="MEXICO-LOCAL",MEX-Visión Televisión (W) [Geo-bloc](720)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87825
+#EXTINF:-1 tvg-id="" tvg-name="MEX-XHKG TV Nayarit (W) [Geo-bloc](1080)" tvg-logo="https://i.imgur.com/QFI2OdJ.png" group-title="MEXICO-LOCAL",MEX-XHKG TV Nayarit (W) [Geo-bloc](1080)
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87826
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ZAZ" tvg-logo="https://i.imgur.com/CMMEIq3_d.jpg" group-title="MEXICO-LOCAL",MEX-ZAZ
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87827
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",3ABN MX
 http://45.68.35.218:4001/play/a012/index.m3u8
 #EXTINF:-1 tvg-name="09 | AZTECA INT"tvg-id="I276.79968.schedulesdirect.org"tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/76ced7a/2147483647/strip/true/crop/500x100+0+0/resize/230x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff8%2Fea%2F359e1c7343eca0a070d5850f8971%2Ftvai-logo-ok.png"group-title="▶️ MEXICO2",AZ HONDURAS
