@@ -1311,10 +1311,122 @@ http://planettvweb.com:8091/AlejandroAle/YRej9272m/73716
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/73717
 #EXTINF:-1 tvg-name="RACING AMERICA"tvg-id=""tvg-logo="https://photos.smugmug.com/RA-Logos-/i-THPBPLq/1/23e7ccf0/L/RacingAmerica-Logo-FullColor-L.png"group-title="USA",RACING AMERICA
 http://planettvweb.com:8091/AlejandroAle/YRej9272m/90110
-#EXTINF:-1 tvg-name="Azteca Corazon"tvg-id=""tvg-logo=" https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png"group-title="MEXICO",Azteca Corazon
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/95755
-#EXTINF:-1 tvg-name="Azteca 7 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png"group-title="MEXICO",Azteca 7 HD
-http://planettvweb.com:8091/AlejandroAle/YRej9272m/95756
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Recuerdos Retro Radio TV * | CL" tvg-logo="https://i2.paste.pics/64f570fc821ff3b32cfdc0b0123be940.png" group-title="✅MEXICO",Recuerdos Retro Radio TV * | CL
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/305284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADN 40 | MX" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="✅MEXICO",ADN 40 | MX
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/305290.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Cancun | MX" tvg-logo="https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png" group-title="✅MEXICO",Canal 10 Cancun | MX
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/305291.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alcance TV | MX" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png" group-title="✅MEXICO",Alcance TV | MX
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/305336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M | Azteca Uno 2 horas FHD" tvg-logo="http://tvlatino.club:2082/images/30b97b720b71ae2543a261f3988e8060.png" group-title="✅MEXICO",M | Azteca Uno 2 horas FHD
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/305600.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca corazón" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlSmIhyHjWaxLPQBethwO_sBDgCG4dZfX_A&usqp=CAU" group-title="✅MEXICO",Azteca corazón
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/405696.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX || Televisa Tijuana" tvg-logo="https://i.imgur.com/wnGSI2u.jpg" group-title="✅MEXICO",MX || Televisa Tijuana
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/459375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal de las estrellas HD" tvg-logo="http://tvlatino.club:2082/images/9287bcee0b60634deaa13a41ac695988.jpg" group-title="✅MEXICO",Canal de las estrellas HD
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/469582.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | T_UDN MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="✅MEXICO",MX | T_UDN MX ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539939.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | T_UDN USA ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="✅MEXICO",MX | T_UDN USA ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539940.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | FOX SPORTS PREMIUM ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="✅MEXICO",MX | FOX SPORTS PREMIUM ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539941.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | FOX SPORTS MX ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="✅MEXICO",MX | FOX SPORTS MX ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539942.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | FOX DEPORTES ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png" group-title="✅MEXICO",MX | FOX DEPORTES ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539943.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | CLARO SPORTS ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="✅MEXICO",MX | CLARO SPORTS ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539944.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | (VIX) ZONA TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1200px-ViX_Logo.svg.png" group-title="✅MEXICO",MX | (VIX) ZONA TUDN
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539945.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | FOX DEPORTES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png" group-title="✅MEXICO",MX | FOX DEPORTES
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539946.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | ITV Deportes MX" tvg-logo="noimage.png" group-title="✅MEXICO",MX | ITV Deportes MX
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539947.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEX | 4 GDL ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_guadalajara.png" group-title="✅MEXICO",MEX | 4 GDL ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539948.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEX | A+" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_mas.png" group-title="✅MEXICO",MEX | A+
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539949.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEX | ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40.png" group-title="✅MEXICO",MEX | ADN 40
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539950.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEX | ADN 40 ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40.png" group-title="✅MEXICO",MEX | ADN 40 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539951.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | AZ CORAZON ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png" group-title="✅MEXICO",MX | AZ CORAZON ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539952.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX | AZTECA 7 ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7.png" group-title="✅MEXICO",MX | AZTECA 7 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539953.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="07 | AZTECA 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7.png" group-title="✅MEXICO",07 | AZTECA 7
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539954.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 | AZCORAZON" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_corazon.png" group-title="✅MEXICO",08 | AZCORAZON
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539955.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="09 | AZTECA INT" tvg-logo="noimage.png" group-title="✅MEXICO",09 | AZTECA INT
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539956.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 | AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno.png" group-title="✅MEXICO",10 | AZTECA UNO
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539957.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11 | AZTECA UNO  ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno.png" group-title="✅MEXICO",11 | AZTECA UNO  ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539958.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 | AZTECA UNO ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno.png" group-title="✅MEXICO",12 | AZTECA UNO ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539959.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 | AZTECA 1 ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno.png" group-title="✅MEXICO",13 | AZTECA 1 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539960.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 | BITME" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bitme-mediano.png" group-title="✅MEXICO",14 | BITME
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539961.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 | CANAL ONCE ᴴᴰ" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once-en-vivo-Online.png" group-title="✅MEXICO",15 | CANAL ONCE ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539962.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 | ADN 40 ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40.png" group-title="✅MEXICO",16 | ADN 40 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539963.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="17 | CANAL 5 ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico.png" group-title="✅MEXICO",17 | CANAL 5 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539964.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 | EL NUEVE ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/9_de_mexico.png" group-title="✅MEXICO",19 | EL NUEVE ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539965.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20 | LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" group-title="✅MEXICO",20 | LAS ESTRELLAS
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539966.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="21 | FORO TV ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/foro_tv.png" group-title="✅MEXICO",21 | FORO TV ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539967.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="22 | FORO TV ᴴᴰ" tvg-logo="http://dashtv.tech:8000/images/b5c27a7f7f49f770b070ddc5bfcc7876.png" group-title="✅MEXICO",22 | FORO TV ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539968.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="23 | IMAGEN TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="✅MEXICO",23 | IMAGEN TV ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539969.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 | IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="✅MEXICO",24 | IMAGEN TV
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539970.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="25 | INGENIO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ingenio_tv-mediano.png" group-title="✅MEXICO",25 | INGENIO TV
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539971.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="26 | LAS ESTRELLAS ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" group-title="✅MEXICO",26 | LAS ESTRELLAS ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539972.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="27 | LAS ESTRELLAS ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" group-title="✅MEXICO",27 | LAS ESTRELLAS ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539973.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="28 | LAS ESTRELLAS ᴴᴰ -2HR" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas.png" group-title="✅MEXICO",28 | LAS ESTRELLAS ᴴᴰ -2HR
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539974.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="29 | MILENIO NOTICIAS ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/milenio_tv-mediano.png" group-title="✅MEXICO",29 | MILENIO NOTICIAS ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539975.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="31 | CANAL 6 MULTIMEDIOS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="✅MEXICO",31 | CANAL 6 MULTIMEDIOS ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539976.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="33 | MULTIMEDIOS MTY ᴴᴰ" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="✅MEXICO",33 | MULTIMEDIOS MTY ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539977.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="34 | CANAL 6 MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="✅MEXICO",34 | CANAL 6 MULTIMEDIOS
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539978.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="35 | CANAL 10 CANCUN ᴴᴰ" tvg-logo="http://streamingprotv.com:8000/images/fa830febf91fb6bd783a4c7e44d9021d.png" group-title="✅MEXICO",35 | CANAL 10 CANCUN ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539979.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="36 | NUEVE 9 ᴴᴰ" tvg-logo="http://dashtv.tech:8000/images/420a3621eb7b19f4bcd6340085c8dc77.png" group-title="✅MEXICO",36 | NUEVE 9 ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539980.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="37 | CANAL ONCE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once-en-vivo-Online.png" group-title="✅MEXICO",37 | CANAL ONCE
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539981.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="38 | TELEFORMULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleformula-mediano.png" group-title="✅MEXICO",38 | TELEFORMULA
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539982.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="39 | TELEFORMULA ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleformula-mediano.png" group-title="✅MEXICO",39 | TELEFORMULA ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539983.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="40 | TELEVISA MONTERREY ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_de_monterrey.png" group-title="✅MEXICO",40 | TELEVISA MONTERREY ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539984.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="44 | CINEMA ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv_azteca_cinema-mediano.png" group-title="✅MEXICO",44 | CINEMA ᴴᴰ
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/539988.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX || Televisa Puebla HD" tvg-logo="https://pbs.twimg.com/profile_images/1241392253647667201/0Q1BzbrL_400x400.jpg" group-title="✅MEXICO",MX || Televisa Puebla HD
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/540871.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX || Televisa Puebla HD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisa-puebla-en-vivo-859.jpg" group-title="✅MEXICO",MX || Televisa Puebla HD
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/540872.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX || Televisa Puebla SD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisa-puebla-en-vivo-859.jpg" group-title="✅MEXICO",MX || Televisa Puebla SD
+http://tvlatino.club:2082/live/chu100/FrmxBkw4rN7p/540873.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="▶️ MEXICO2",3ABN MX
 http://45.68.35.218:4001/play/a012/index.m3u8
 #EXTINF:-1 tvg-name="09 | AZTECA INT"tvg-id="I276.79968.schedulesdirect.org"tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/76ced7a/2147483647/strip/true/crop/500x100+0+0/resize/230x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff8%2Fea%2F359e1c7343eca0a070d5850f8971%2Ftvai-logo-ok.png"group-title="▶️ MEXICO2",AZ HONDURAS
